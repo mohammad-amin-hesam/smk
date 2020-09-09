@@ -1,0 +1,59 @@
+$color: #fff;
+$backgroundColor: transparent;
+$border: 1px solid transparent;
+$padding: 3px;
+$margin: 10px;
+$fonSize: 13px;
+
+@mixin button($color, $backgroundColor, $border, $padding, $fontSize) {
+  color: $color;
+  background-color: $backgroundColor;
+  border: $border;
+  padding: $padding;
+  font-size: $fontSize;
+}
+
+.button {
+  background-color: transparent;
+  border: 1px solid transparent;
+  outline: none;
+  cursor: pointer;
+  color: #ffffff;
+  font: inherit;
+  padding: $padding;
+  margin: $margin;
+  border-radius: 5px;
+  min-width: 6em !important;
+}
+
+.danger {
+  background-color: red;
+}
+
+.success {
+  background-color: #33c21b;
+}
+.btn_info {
+  color: #fff;
+  background-color: #5bc0de;
+  border-color: #46b8da;
+}
+
+.black {
+  background-color: #000;
+  padding: 8px;
+}
+// .remove {
+//   background-color: #c14b81;
+//   color: #fff;
+//   padding: 0px !important;
+// }
+
+.submit {
+  @include button(#fff, #3aade9, #3aade9, 0.2em 1em, 0.9em);
+  min-width: 70px;
+  &:hover {
+    background-color: #204d74;
+    border-color: #122b40;
+  }
+}

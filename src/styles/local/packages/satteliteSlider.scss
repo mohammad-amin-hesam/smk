@@ -1,0 +1,199 @@
+#sattelite-slider {
+  //bottom: 0em!important;
+  //height: 6em;
+  //background: rgba(255, 255, 255, 0.5);
+  max-height: calc(100% - 10em);
+  #slider-date {
+    width: 100%;
+    display: inline-block;
+    //position: absolute;
+    //right: 10em;
+    //bottom: 1em;
+  }
+  .jdtrp {
+
+    #rangePickerStart {
+      width: 5em;
+      position: absolute;
+      right: 0;
+      bottom: -23px;
+      border: none;
+      text-align: right;
+      padding-top: 4.5em;
+      display: inline-block;
+      cursor: pointer;
+      background-color: transparent;
+      padding-bottom: 7px;
+      top: 0;
+      & + .JDatePicker {
+        bottom: 27px;
+        right: 0;
+      }
+    }
+
+    #datePicker {
+      width: 15%;
+      position: absolute;
+      left: 0;
+      top: 0;
+      bottom: -23px;
+      cursor: pointer;
+      width: 5em;
+      background-color: transparent;
+      border: none;
+      padding-top: 4.5em;
+      padding-bottom: 7px;
+      color: #333;
+      & + .JDatePicker {
+        bottom: 27px;
+        left: 0;
+        color: #333;
+      }
+    }
+
+    & > div:nth-child(1) {
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: 20px;
+      background-color: transparent;
+      height: 20px;
+      width: 53px;
+      display: inline-block;
+      position: absolute;
+      top: 2em;
+      &:after {
+        content: "تاریخ شروع";
+        margin-top: 2.1em;
+        display: block;
+        color: #333;
+      }
+    }
+
+    & > div:nth-child(2) {
+      display: none;
+    }
+
+    & > div:nth-child(3) {
+      background-image: url('./../../img/calendar.svg');
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: 20px;
+      background-color: transparent;
+      height: 20px;
+      width: 53px;
+      display: inline-block;
+      position: absolute;
+      top: 2em;
+      left: 0;
+      color: transparent;
+      &:after {
+        content: "تاریخ پایان";
+        margin-top: 2.1em;
+        display: block;
+        color: #333;
+      }
+    }
+  }
+
+  .slick-slider {
+    margin-bottom: 0!important;
+    padding-top: 20em;
+    .slick-list {
+      padding-top: 20em;
+    }
+  }
+
+  .sattelite-dates {
+    float: right;
+    width: 100%;
+    position: relative;
+    .form-control{
+      position: relative;
+      margin-top: 0;
+      background-color: #eee;
+      border: 1px solid #666;
+      box-shadow: unset;
+      width: 15em;
+      height: 4em;
+      vertical-align: middle;
+      cursor: pointer;
+      text-align: right;
+      display: block;
+      margin: auto;
+      margin-top: 0.5rem;
+      span {
+        margin-top: 1em;
+        display: inline-block;
+      }
+      img {
+        width: 1em;
+        float: left;
+        margin-top: .5em;
+        position: absolute!important;
+        top: 1em;
+        left: 1em;
+      }
+      img.down {
+        display: block;
+      }
+      img.up {
+        display: none;
+      }
+      &.open {
+        img.down {
+          display: none;
+        }
+        img.up {
+          display: block;
+        }
+      }
+    }
+    .sattelite-date-container {
+      width: 100%;
+      display: none;
+      max-height: 20em;
+      overflow: auto;
+      position: absolute;
+      right: 0em;
+      border: 1px solid #eee;
+      border-radius: 4px;
+      bottom: 4.5em;
+      z-index: 20;
+      background: white;
+      padding: 10px;
+      box-shadow: 0 0 5px 5px #666;
+      &.open {
+        display: block;
+      }
+      .link {
+        width: 100%;
+        display: inline-block;
+        text-align: center;
+        background: #eee;
+        padding: 5px 3px;
+        border-radius: 10px;
+        margin-bottom: 5px;
+        cursor: pointer;
+        &.active {
+          background-color: #ccc;
+        }
+      }
+    }
+  }
+}
+
+.slick-next, .slick-prev {
+    font-size: 0;
+    line-height: 0;
+    top: calc(100% - 100em);
+    width: 20px;
+    height: 20px;
+    -webkit-transform: translate(0,-150%);
+    -ms-transform: translate(0,-150%);
+    transform: translate(0,calc(-150%));
+    cursor: pointer;
+    color: transparent;
+    border: none;
+    outline: 0;
+    background: 0 0;
+  }

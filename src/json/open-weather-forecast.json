@@ -1,0 +1,5402 @@
+[
+    {
+        "time": {
+            "from": {
+                "date": "2020-04-11 12:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "to": {
+                "date": "2020-04-11 15:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "day": {
+                "date": "2020-04-11 00:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        },
+        "city": {
+            "id": 1160939,
+            "name": "Qal\u2018eh-ye N\u0101\u015fer\u012b",
+            "country": "IR",
+            "population": null,
+            "timezone": {
+                "timezone_type": 1,
+                "timezone": "+04:30"
+            },
+            "lat": 27.2025,
+            "lon": 60.6848
+        },
+        "temperature": {
+            "now": {
+                "value": 32.94,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "min": {
+                "value": 32.31,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "max": {
+                "value": 33.57,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "day": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "morning": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "evening": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "night": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            }
+        },
+        "humidity": {
+            "value": 14,
+            "unit": "%",
+            "description": "",
+            "precision": null
+        },
+        "pressure": {
+            "value": 1014,
+            "unit": "hPa",
+            "description": "",
+            "precision": null
+        },
+        "wind": {
+            "speed": {
+                "value": 7.43,
+                "unit": "m\/s",
+                "description": "Moderate breeze",
+                "precision": null
+            },
+            "direction": {
+                "value": 210,
+                "unit": "SSW",
+                "description": "South-southwest",
+                "precision": null
+            }
+        },
+        "clouds": {
+            "value": 100,
+            "unit": "%",
+            "description": "\u067e\u0648\u0634\u06cc\u062f\u0647 \u0627\u0632 \u0627\u0628\u0631",
+            "precision": null
+        },
+        "precipitation": {
+            "value": 0,
+            "unit": "",
+            "description": "",
+            "precision": null
+        },
+        "sun": {
+            "rise": {
+                "date": "2020-04-11 01:36:47.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "set": {
+                "date": "2020-04-11 14:19:17.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        },
+        "weather": {
+            "id": 804,
+            "description": "\u067e\u0648\u0634\u06cc\u062f\u0647 \u0627\u0632 \u0627\u0628\u0631",
+            "icon": "04n"
+        },
+        "lastUpdate": {
+            "date": "2020-04-11 12:53:09.056648",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    {
+        "time": {
+            "from": {
+                "date": "2020-04-11 15:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "to": {
+                "date": "2020-04-11 18:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "day": {
+                "date": "2020-04-11 00:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        },
+        "city": {
+            "id": 1160939,
+            "name": "Qal\u2018eh-ye N\u0101\u015fer\u012b",
+            "country": "IR",
+            "population": null,
+            "timezone": {
+                "timezone_type": 1,
+                "timezone": "+04:30"
+            },
+            "lat": 27.2025,
+            "lon": 60.6848
+        },
+        "temperature": {
+            "now": {
+                "value": 30.57,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "min": {
+                "value": 30.09,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "max": {
+                "value": 31.04,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "day": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "morning": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "evening": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "night": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            }
+        },
+        "humidity": {
+            "value": 17,
+            "unit": "%",
+            "description": "",
+            "precision": null
+        },
+        "pressure": {
+            "value": 1015,
+            "unit": "hPa",
+            "description": "",
+            "precision": null
+        },
+        "wind": {
+            "speed": {
+                "value": 3.09,
+                "unit": "m\/s",
+                "description": "Light breeze",
+                "precision": null
+            },
+            "direction": {
+                "value": 204,
+                "unit": "SSW",
+                "description": "South-southwest",
+                "precision": null
+            }
+        },
+        "clouds": {
+            "value": 100,
+            "unit": "%",
+            "description": "\u067e\u0648\u0634\u06cc\u062f\u0647 \u0627\u0632 \u0627\u0628\u0631",
+            "precision": null
+        },
+        "precipitation": {
+            "value": 0,
+            "unit": "",
+            "description": "",
+            "precision": null
+        },
+        "sun": {
+            "rise": {
+                "date": "2020-04-11 01:36:47.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "set": {
+                "date": "2020-04-11 14:19:17.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        },
+        "weather": {
+            "id": 804,
+            "description": "\u067e\u0648\u0634\u06cc\u062f\u0647 \u0627\u0632 \u0627\u0628\u0631",
+            "icon": "04n"
+        },
+        "lastUpdate": {
+            "date": "2020-04-11 12:53:09.057084",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    {
+        "time": {
+            "from": {
+                "date": "2020-04-11 18:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "to": {
+                "date": "2020-04-11 21:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "day": {
+                "date": "2020-04-11 00:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        },
+        "city": {
+            "id": 1160939,
+            "name": "Qal\u2018eh-ye N\u0101\u015fer\u012b",
+            "country": "IR",
+            "population": null,
+            "timezone": {
+                "timezone_type": 1,
+                "timezone": "+04:30"
+            },
+            "lat": 27.2025,
+            "lon": 60.6848
+        },
+        "temperature": {
+            "now": {
+                "value": 28.64,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "min": {
+                "value": 28.32,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "max": {
+                "value": 28.95,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "day": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "morning": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "evening": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "night": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            }
+        },
+        "humidity": {
+            "value": 20,
+            "unit": "%",
+            "description": "",
+            "precision": null
+        },
+        "pressure": {
+            "value": 1014,
+            "unit": "hPa",
+            "description": "",
+            "precision": null
+        },
+        "wind": {
+            "speed": {
+                "value": 0.69,
+                "unit": "m\/s",
+                "description": "Calm",
+                "precision": null
+            },
+            "direction": {
+                "value": 106,
+                "unit": "ESE",
+                "description": "East-southeast",
+                "precision": null
+            }
+        },
+        "clouds": {
+            "value": 100,
+            "unit": "%",
+            "description": "\u067e\u0648\u0634\u06cc\u062f\u0647 \u0627\u0632 \u0627\u0628\u0631",
+            "precision": null
+        },
+        "precipitation": {
+            "value": 0,
+            "unit": "",
+            "description": "",
+            "precision": null
+        },
+        "sun": {
+            "rise": {
+                "date": "2020-04-11 01:36:47.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "set": {
+                "date": "2020-04-11 14:19:17.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        },
+        "weather": {
+            "id": 804,
+            "description": "\u067e\u0648\u0634\u06cc\u062f\u0647 \u0627\u0632 \u0627\u0628\u0631",
+            "icon": "04n"
+        },
+        "lastUpdate": {
+            "date": "2020-04-11 12:53:09.057304",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    {
+        "time": {
+            "from": {
+                "date": "2020-04-11 21:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "to": {
+                "date": "2020-04-12 00:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "day": {
+                "date": "2020-04-11 00:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        },
+        "city": {
+            "id": 1160939,
+            "name": "Qal\u2018eh-ye N\u0101\u015fer\u012b",
+            "country": "IR",
+            "population": null,
+            "timezone": {
+                "timezone_type": 1,
+                "timezone": "+04:30"
+            },
+            "lat": 27.2025,
+            "lon": 60.6848
+        },
+        "temperature": {
+            "now": {
+                "value": 27.19,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "min": {
+                "value": 27.03,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "max": {
+                "value": 27.35,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "day": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "morning": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "evening": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "night": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            }
+        },
+        "humidity": {
+            "value": 20,
+            "unit": "%",
+            "description": "",
+            "precision": null
+        },
+        "pressure": {
+            "value": 1013,
+            "unit": "hPa",
+            "description": "",
+            "precision": null
+        },
+        "wind": {
+            "speed": {
+                "value": 0.4,
+                "unit": "m\/s",
+                "description": "Calm",
+                "precision": null
+            },
+            "direction": {
+                "value": 55,
+                "unit": "NE",
+                "description": "NorthEast",
+                "precision": null
+            }
+        },
+        "clouds": {
+            "value": 97,
+            "unit": "%",
+            "description": "\u067e\u0648\u0634\u06cc\u062f\u0647 \u0627\u0632 \u0627\u0628\u0631",
+            "precision": null
+        },
+        "precipitation": {
+            "value": 0,
+            "unit": "",
+            "description": "",
+            "precision": null
+        },
+        "sun": {
+            "rise": {
+                "date": "2020-04-11 01:36:47.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "set": {
+                "date": "2020-04-11 14:19:17.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        },
+        "weather": {
+            "id": 804,
+            "description": "\u067e\u0648\u0634\u06cc\u062f\u0647 \u0627\u0632 \u0627\u0628\u0631",
+            "icon": "04n"
+        },
+        "lastUpdate": {
+            "date": "2020-04-11 12:53:09.057522",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    {
+        "time": {
+            "from": {
+                "date": "2020-04-12 00:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "to": {
+                "date": "2020-04-12 03:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "day": {
+                "date": "2020-04-12 00:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        },
+        "city": {
+            "id": 1160939,
+            "name": "Qal\u2018eh-ye N\u0101\u015fer\u012b",
+            "country": "IR",
+            "population": null,
+            "timezone": {
+                "timezone_type": 1,
+                "timezone": "+04:30"
+            },
+            "lat": 27.2025,
+            "lon": 60.6848
+        },
+        "temperature": {
+            "now": {
+                "value": 28,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "min": {
+                "value": 28,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "max": {
+                "value": 28,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "day": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "morning": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "evening": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "night": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            }
+        },
+        "humidity": {
+            "value": 18,
+            "unit": "%",
+            "description": "",
+            "precision": null
+        },
+        "pressure": {
+            "value": 1015,
+            "unit": "hPa",
+            "description": "",
+            "precision": null
+        },
+        "wind": {
+            "speed": {
+                "value": 0.97,
+                "unit": "m\/s",
+                "description": "Calm",
+                "precision": null
+            },
+            "direction": {
+                "value": 245,
+                "unit": "WSW",
+                "description": "West-southwest",
+                "precision": null
+            }
+        },
+        "clouds": {
+            "value": 66,
+            "unit": "%",
+            "description": "\u0627\u0628\u0631\u0647\u0627\u06cc \u067e\u0627\u0631\u0686\u0647 \u067e\u0627\u0631\u0686\u0647 \u0634\u062f\u0647",
+            "precision": null
+        },
+        "precipitation": {
+            "value": 0,
+            "unit": "",
+            "description": "",
+            "precision": null
+        },
+        "sun": {
+            "rise": {
+                "date": "2020-04-11 01:36:47.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "set": {
+                "date": "2020-04-11 14:19:17.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        },
+        "weather": {
+            "id": 803,
+            "description": "\u0627\u0628\u0631\u0647\u0627\u06cc \u067e\u0627\u0631\u0686\u0647 \u067e\u0627\u0631\u0686\u0647 \u0634\u062f\u0647",
+            "icon": "04d"
+        },
+        "lastUpdate": {
+            "date": "2020-04-11 12:53:09.057742",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    {
+        "time": {
+            "from": {
+                "date": "2020-04-12 03:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "to": {
+                "date": "2020-04-12 06:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "day": {
+                "date": "2020-04-12 00:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        },
+        "city": {
+            "id": 1160939,
+            "name": "Qal\u2018eh-ye N\u0101\u015fer\u012b",
+            "country": "IR",
+            "population": null,
+            "timezone": {
+                "timezone_type": 1,
+                "timezone": "+04:30"
+            },
+            "lat": 27.2025,
+            "lon": 60.6848
+        },
+        "temperature": {
+            "now": {
+                "value": 30.96,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "min": {
+                "value": 30.96,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "max": {
+                "value": 30.96,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "day": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "morning": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "evening": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "night": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            }
+        },
+        "humidity": {
+            "value": 13,
+            "unit": "%",
+            "description": "",
+            "precision": null
+        },
+        "pressure": {
+            "value": 1015,
+            "unit": "hPa",
+            "description": "",
+            "precision": null
+        },
+        "wind": {
+            "speed": {
+                "value": 1.6,
+                "unit": "m\/s",
+                "description": "Light breeze",
+                "precision": null
+            },
+            "direction": {
+                "value": 191,
+                "unit": "S",
+                "description": "South",
+                "precision": null
+            }
+        },
+        "clouds": {
+            "value": 73,
+            "unit": "%",
+            "description": "\u0627\u0628\u0631\u0647\u0627\u06cc \u067e\u0627\u0631\u0686\u0647 \u067e\u0627\u0631\u0686\u0647 \u0634\u062f\u0647",
+            "precision": null
+        },
+        "precipitation": {
+            "value": 0,
+            "unit": "",
+            "description": "",
+            "precision": null
+        },
+        "sun": {
+            "rise": {
+                "date": "2020-04-11 01:36:47.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "set": {
+                "date": "2020-04-11 14:19:17.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        },
+        "weather": {
+            "id": 803,
+            "description": "\u0627\u0628\u0631\u0647\u0627\u06cc \u067e\u0627\u0631\u0686\u0647 \u067e\u0627\u0631\u0686\u0647 \u0634\u062f\u0647",
+            "icon": "04d"
+        },
+        "lastUpdate": {
+            "date": "2020-04-11 12:53:09.058002",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    {
+        "time": {
+            "from": {
+                "date": "2020-04-12 06:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "to": {
+                "date": "2020-04-12 09:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "day": {
+                "date": "2020-04-12 00:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        },
+        "city": {
+            "id": 1160939,
+            "name": "Qal\u2018eh-ye N\u0101\u015fer\u012b",
+            "country": "IR",
+            "population": null,
+            "timezone": {
+                "timezone_type": 1,
+                "timezone": "+04:30"
+            },
+            "lat": 27.2025,
+            "lon": 60.6848
+        },
+        "temperature": {
+            "now": {
+                "value": 33.22,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "min": {
+                "value": 33.22,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "max": {
+                "value": 33.22,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "day": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "morning": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "evening": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "night": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            }
+        },
+        "humidity": {
+            "value": 10,
+            "unit": "%",
+            "description": "",
+            "precision": null
+        },
+        "pressure": {
+            "value": 1013,
+            "unit": "hPa",
+            "description": "",
+            "precision": null
+        },
+        "wind": {
+            "speed": {
+                "value": 2.55,
+                "unit": "m\/s",
+                "description": "Light breeze",
+                "precision": null
+            },
+            "direction": {
+                "value": 196,
+                "unit": "SSW",
+                "description": "South-southwest",
+                "precision": null
+            }
+        },
+        "clouds": {
+            "value": 100,
+            "unit": "%",
+            "description": "\u067e\u0648\u0634\u06cc\u062f\u0647 \u0627\u0632 \u0627\u0628\u0631",
+            "precision": null
+        },
+        "precipitation": {
+            "value": 0,
+            "unit": "",
+            "description": "",
+            "precision": null
+        },
+        "sun": {
+            "rise": {
+                "date": "2020-04-11 01:36:47.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "set": {
+                "date": "2020-04-11 14:19:17.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        },
+        "weather": {
+            "id": 804,
+            "description": "\u067e\u0648\u0634\u06cc\u062f\u0647 \u0627\u0632 \u0627\u0628\u0631",
+            "icon": "04d"
+        },
+        "lastUpdate": {
+            "date": "2020-04-11 12:53:09.058219",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    {
+        "time": {
+            "from": {
+                "date": "2020-04-12 09:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "to": {
+                "date": "2020-04-12 12:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "day": {
+                "date": "2020-04-12 00:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        },
+        "city": {
+            "id": 1160939,
+            "name": "Qal\u2018eh-ye N\u0101\u015fer\u012b",
+            "country": "IR",
+            "population": null,
+            "timezone": {
+                "timezone_type": 1,
+                "timezone": "+04:30"
+            },
+            "lat": 27.2025,
+            "lon": 60.6848
+        },
+        "temperature": {
+            "now": {
+                "value": 34.04,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "min": {
+                "value": 34.04,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "max": {
+                "value": 34.04,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "day": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "morning": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "evening": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "night": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            }
+        },
+        "humidity": {
+            "value": 10,
+            "unit": "%",
+            "description": "",
+            "precision": null
+        },
+        "pressure": {
+            "value": 1010,
+            "unit": "hPa",
+            "description": "",
+            "precision": null
+        },
+        "wind": {
+            "speed": {
+                "value": 4.57,
+                "unit": "m\/s",
+                "description": "Gentle Breeze",
+                "precision": null
+            },
+            "direction": {
+                "value": 243,
+                "unit": "WSW",
+                "description": "West-southwest",
+                "precision": null
+            }
+        },
+        "clouds": {
+            "value": 100,
+            "unit": "%",
+            "description": "\u067e\u0648\u0634\u06cc\u062f\u0647 \u0627\u0632 \u0627\u0628\u0631",
+            "precision": null
+        },
+        "precipitation": {
+            "value": 0,
+            "unit": "",
+            "description": "",
+            "precision": null
+        },
+        "sun": {
+            "rise": {
+                "date": "2020-04-11 01:36:47.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "set": {
+                "date": "2020-04-11 14:19:17.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        },
+        "weather": {
+            "id": 804,
+            "description": "\u067e\u0648\u0634\u06cc\u062f\u0647 \u0627\u0632 \u0627\u0628\u0631",
+            "icon": "04d"
+        },
+        "lastUpdate": {
+            "date": "2020-04-11 12:53:09.058433",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    {
+        "time": {
+            "from": {
+                "date": "2020-04-12 12:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "to": {
+                "date": "2020-04-12 15:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "day": {
+                "date": "2020-04-12 00:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        },
+        "city": {
+            "id": 1160939,
+            "name": "Qal\u2018eh-ye N\u0101\u015fer\u012b",
+            "country": "IR",
+            "population": null,
+            "timezone": {
+                "timezone_type": 1,
+                "timezone": "+04:30"
+            },
+            "lat": 27.2025,
+            "lon": 60.6848
+        },
+        "temperature": {
+            "now": {
+                "value": 31.14,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "min": {
+                "value": 31.14,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "max": {
+                "value": 31.14,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "day": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "morning": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "evening": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "night": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            }
+        },
+        "humidity": {
+            "value": 17,
+            "unit": "%",
+            "description": "",
+            "precision": null
+        },
+        "pressure": {
+            "value": 1012,
+            "unit": "hPa",
+            "description": "",
+            "precision": null
+        },
+        "wind": {
+            "speed": {
+                "value": 5.9,
+                "unit": "m\/s",
+                "description": "Moderate breeze",
+                "precision": null
+            },
+            "direction": {
+                "value": 233,
+                "unit": "SW",
+                "description": "Southwest",
+                "precision": null
+            }
+        },
+        "clouds": {
+            "value": 94,
+            "unit": "%",
+            "description": "\u067e\u0648\u0634\u06cc\u062f\u0647 \u0627\u0632 \u0627\u0628\u0631",
+            "precision": null
+        },
+        "precipitation": {
+            "value": 0,
+            "unit": "",
+            "description": "",
+            "precision": null
+        },
+        "sun": {
+            "rise": {
+                "date": "2020-04-11 01:36:47.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "set": {
+                "date": "2020-04-11 14:19:17.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        },
+        "weather": {
+            "id": 804,
+            "description": "\u067e\u0648\u0634\u06cc\u062f\u0647 \u0627\u0632 \u0627\u0628\u0631",
+            "icon": "04n"
+        },
+        "lastUpdate": {
+            "date": "2020-04-11 12:53:09.058645",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    {
+        "time": {
+            "from": {
+                "date": "2020-04-12 15:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "to": {
+                "date": "2020-04-12 18:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "day": {
+                "date": "2020-04-12 00:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        },
+        "city": {
+            "id": 1160939,
+            "name": "Qal\u2018eh-ye N\u0101\u015fer\u012b",
+            "country": "IR",
+            "population": null,
+            "timezone": {
+                "timezone_type": 1,
+                "timezone": "+04:30"
+            },
+            "lat": 27.2025,
+            "lon": 60.6848
+        },
+        "temperature": {
+            "now": {
+                "value": 28.46,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "min": {
+                "value": 28.46,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "max": {
+                "value": 28.46,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "day": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "morning": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "evening": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "night": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            }
+        },
+        "humidity": {
+            "value": 26,
+            "unit": "%",
+            "description": "",
+            "precision": null
+        },
+        "pressure": {
+            "value": 1013,
+            "unit": "hPa",
+            "description": "",
+            "precision": null
+        },
+        "wind": {
+            "speed": {
+                "value": 4.42,
+                "unit": "m\/s",
+                "description": "Gentle Breeze",
+                "precision": null
+            },
+            "direction": {
+                "value": 218,
+                "unit": "SW",
+                "description": "Southwest",
+                "precision": null
+            }
+        },
+        "clouds": {
+            "value": 97,
+            "unit": "%",
+            "description": "\u067e\u0648\u0634\u06cc\u062f\u0647 \u0627\u0632 \u0627\u0628\u0631",
+            "precision": null
+        },
+        "precipitation": {
+            "value": 0,
+            "unit": "",
+            "description": "",
+            "precision": null
+        },
+        "sun": {
+            "rise": {
+                "date": "2020-04-11 01:36:47.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "set": {
+                "date": "2020-04-11 14:19:17.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        },
+        "weather": {
+            "id": 804,
+            "description": "\u067e\u0648\u0634\u06cc\u062f\u0647 \u0627\u0632 \u0627\u0628\u0631",
+            "icon": "04n"
+        },
+        "lastUpdate": {
+            "date": "2020-04-11 12:53:09.058877",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    {
+        "time": {
+            "from": {
+                "date": "2020-04-12 18:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "to": {
+                "date": "2020-04-12 21:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "day": {
+                "date": "2020-04-12 00:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        },
+        "city": {
+            "id": 1160939,
+            "name": "Qal\u2018eh-ye N\u0101\u015fer\u012b",
+            "country": "IR",
+            "population": null,
+            "timezone": {
+                "timezone_type": 1,
+                "timezone": "+04:30"
+            },
+            "lat": 27.2025,
+            "lon": 60.6848
+        },
+        "temperature": {
+            "now": {
+                "value": 26.55,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "min": {
+                "value": 26.55,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "max": {
+                "value": 26.55,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "day": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "morning": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "evening": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "night": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            }
+        },
+        "humidity": {
+            "value": 31,
+            "unit": "%",
+            "description": "",
+            "precision": null
+        },
+        "pressure": {
+            "value": 1012,
+            "unit": "hPa",
+            "description": "",
+            "precision": null
+        },
+        "wind": {
+            "speed": {
+                "value": 1.69,
+                "unit": "m\/s",
+                "description": "Light breeze",
+                "precision": null
+            },
+            "direction": {
+                "value": 210,
+                "unit": "SSW",
+                "description": "South-southwest",
+                "precision": null
+            }
+        },
+        "clouds": {
+            "value": 100,
+            "unit": "%",
+            "description": "\u067e\u0648\u0634\u06cc\u062f\u0647 \u0627\u0632 \u0627\u0628\u0631",
+            "precision": null
+        },
+        "precipitation": {
+            "value": 0,
+            "unit": "",
+            "description": "",
+            "precision": null
+        },
+        "sun": {
+            "rise": {
+                "date": "2020-04-11 01:36:47.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "set": {
+                "date": "2020-04-11 14:19:17.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        },
+        "weather": {
+            "id": 804,
+            "description": "\u067e\u0648\u0634\u06cc\u062f\u0647 \u0627\u0632 \u0627\u0628\u0631",
+            "icon": "04n"
+        },
+        "lastUpdate": {
+            "date": "2020-04-11 12:53:09.059124",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    {
+        "time": {
+            "from": {
+                "date": "2020-04-12 21:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "to": {
+                "date": "2020-04-13 00:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "day": {
+                "date": "2020-04-12 00:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        },
+        "city": {
+            "id": 1160939,
+            "name": "Qal\u2018eh-ye N\u0101\u015fer\u012b",
+            "country": "IR",
+            "population": null,
+            "timezone": {
+                "timezone_type": 1,
+                "timezone": "+04:30"
+            },
+            "lat": 27.2025,
+            "lon": 60.6848
+        },
+        "temperature": {
+            "now": {
+                "value": 25.16,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "min": {
+                "value": 25.16,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "max": {
+                "value": 25.16,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "day": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "morning": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "evening": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "night": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            }
+        },
+        "humidity": {
+            "value": 35,
+            "unit": "%",
+            "description": "",
+            "precision": null
+        },
+        "pressure": {
+            "value": 1011,
+            "unit": "hPa",
+            "description": "",
+            "precision": null
+        },
+        "wind": {
+            "speed": {
+                "value": 0.71,
+                "unit": "m\/s",
+                "description": "Calm",
+                "precision": null
+            },
+            "direction": {
+                "value": 189,
+                "unit": "S",
+                "description": "South",
+                "precision": null
+            }
+        },
+        "clouds": {
+            "value": 100,
+            "unit": "%",
+            "description": "\u067e\u0648\u0634\u06cc\u062f\u0647 \u0627\u0632 \u0627\u0628\u0631",
+            "precision": null
+        },
+        "precipitation": {
+            "value": 0,
+            "unit": "",
+            "description": "",
+            "precision": null
+        },
+        "sun": {
+            "rise": {
+                "date": "2020-04-11 01:36:47.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "set": {
+                "date": "2020-04-11 14:19:17.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        },
+        "weather": {
+            "id": 804,
+            "description": "\u067e\u0648\u0634\u06cc\u062f\u0647 \u0627\u0632 \u0627\u0628\u0631",
+            "icon": "04n"
+        },
+        "lastUpdate": {
+            "date": "2020-04-11 12:53:09.059348",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    {
+        "time": {
+            "from": {
+                "date": "2020-04-13 00:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "to": {
+                "date": "2020-04-13 03:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "day": {
+                "date": "2020-04-13 00:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        },
+        "city": {
+            "id": 1160939,
+            "name": "Qal\u2018eh-ye N\u0101\u015fer\u012b",
+            "country": "IR",
+            "population": null,
+            "timezone": {
+                "timezone_type": 1,
+                "timezone": "+04:30"
+            },
+            "lat": 27.2025,
+            "lon": 60.6848
+        },
+        "temperature": {
+            "now": {
+                "value": 26.17,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "min": {
+                "value": 26.17,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "max": {
+                "value": 26.17,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "day": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "morning": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "evening": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "night": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            }
+        },
+        "humidity": {
+            "value": 30,
+            "unit": "%",
+            "description": "",
+            "precision": null
+        },
+        "pressure": {
+            "value": 1013,
+            "unit": "hPa",
+            "description": "",
+            "precision": null
+        },
+        "wind": {
+            "speed": {
+                "value": 0.46,
+                "unit": "m\/s",
+                "description": "Calm",
+                "precision": null
+            },
+            "direction": {
+                "value": 351,
+                "unit": "N",
+                "description": "North",
+                "precision": null
+            }
+        },
+        "clouds": {
+            "value": 100,
+            "unit": "%",
+            "description": "\u067e\u0648\u0634\u06cc\u062f\u0647 \u0627\u0632 \u0627\u0628\u0631",
+            "precision": null
+        },
+        "precipitation": {
+            "value": 0,
+            "unit": "",
+            "description": "",
+            "precision": null
+        },
+        "sun": {
+            "rise": {
+                "date": "2020-04-11 01:36:47.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "set": {
+                "date": "2020-04-11 14:19:17.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        },
+        "weather": {
+            "id": 804,
+            "description": "\u067e\u0648\u0634\u06cc\u062f\u0647 \u0627\u0632 \u0627\u0628\u0631",
+            "icon": "04d"
+        },
+        "lastUpdate": {
+            "date": "2020-04-11 12:53:09.059572",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    {
+        "time": {
+            "from": {
+                "date": "2020-04-13 03:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "to": {
+                "date": "2020-04-13 06:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "day": {
+                "date": "2020-04-13 00:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        },
+        "city": {
+            "id": 1160939,
+            "name": "Qal\u2018eh-ye N\u0101\u015fer\u012b",
+            "country": "IR",
+            "population": null,
+            "timezone": {
+                "timezone_type": 1,
+                "timezone": "+04:30"
+            },
+            "lat": 27.2025,
+            "lon": 60.6848
+        },
+        "temperature": {
+            "now": {
+                "value": 29.06,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "min": {
+                "value": 29.06,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "max": {
+                "value": 29.06,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "day": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "morning": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "evening": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "night": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            }
+        },
+        "humidity": {
+            "value": 23,
+            "unit": "%",
+            "description": "",
+            "precision": null
+        },
+        "pressure": {
+            "value": 1013,
+            "unit": "hPa",
+            "description": "",
+            "precision": null
+        },
+        "wind": {
+            "speed": {
+                "value": 0.81,
+                "unit": "m\/s",
+                "description": "Calm",
+                "precision": null
+            },
+            "direction": {
+                "value": 162,
+                "unit": "SSE",
+                "description": "South-southeast",
+                "precision": null
+            }
+        },
+        "clouds": {
+            "value": 100,
+            "unit": "%",
+            "description": "\u067e\u0648\u0634\u06cc\u062f\u0647 \u0627\u0632 \u0627\u0628\u0631",
+            "precision": null
+        },
+        "precipitation": {
+            "value": 0,
+            "unit": "",
+            "description": "",
+            "precision": null
+        },
+        "sun": {
+            "rise": {
+                "date": "2020-04-11 01:36:47.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "set": {
+                "date": "2020-04-11 14:19:17.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        },
+        "weather": {
+            "id": 804,
+            "description": "\u067e\u0648\u0634\u06cc\u062f\u0647 \u0627\u0632 \u0627\u0628\u0631",
+            "icon": "04d"
+        },
+        "lastUpdate": {
+            "date": "2020-04-11 12:53:09.059790",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    {
+        "time": {
+            "from": {
+                "date": "2020-04-13 06:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "to": {
+                "date": "2020-04-13 09:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "day": {
+                "date": "2020-04-13 00:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        },
+        "city": {
+            "id": 1160939,
+            "name": "Qal\u2018eh-ye N\u0101\u015fer\u012b",
+            "country": "IR",
+            "population": null,
+            "timezone": {
+                "timezone_type": 1,
+                "timezone": "+04:30"
+            },
+            "lat": 27.2025,
+            "lon": 60.6848
+        },
+        "temperature": {
+            "now": {
+                "value": 32.17,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "min": {
+                "value": 32.17,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "max": {
+                "value": 32.17,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "day": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "morning": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "evening": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "night": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            }
+        },
+        "humidity": {
+            "value": 16,
+            "unit": "%",
+            "description": "",
+            "precision": null
+        },
+        "pressure": {
+            "value": 1011,
+            "unit": "hPa",
+            "description": "",
+            "precision": null
+        },
+        "wind": {
+            "speed": {
+                "value": 4.03,
+                "unit": "m\/s",
+                "description": "Gentle Breeze",
+                "precision": null
+            },
+            "direction": {
+                "value": 272,
+                "unit": "W",
+                "description": "West",
+                "precision": null
+            }
+        },
+        "clouds": {
+            "value": 100,
+            "unit": "%",
+            "description": "\u067e\u0648\u0634\u06cc\u062f\u0647 \u0627\u0632 \u0627\u0628\u0631",
+            "precision": null
+        },
+        "precipitation": {
+            "value": 0,
+            "unit": "",
+            "description": "",
+            "precision": null
+        },
+        "sun": {
+            "rise": {
+                "date": "2020-04-11 01:36:47.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "set": {
+                "date": "2020-04-11 14:19:17.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        },
+        "weather": {
+            "id": 804,
+            "description": "\u067e\u0648\u0634\u06cc\u062f\u0647 \u0627\u0632 \u0627\u0628\u0631",
+            "icon": "04d"
+        },
+        "lastUpdate": {
+            "date": "2020-04-11 12:53:09.060027",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    {
+        "time": {
+            "from": {
+                "date": "2020-04-13 09:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "to": {
+                "date": "2020-04-13 12:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "day": {
+                "date": "2020-04-13 00:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        },
+        "city": {
+            "id": 1160939,
+            "name": "Qal\u2018eh-ye N\u0101\u015fer\u012b",
+            "country": "IR",
+            "population": null,
+            "timezone": {
+                "timezone_type": 1,
+                "timezone": "+04:30"
+            },
+            "lat": 27.2025,
+            "lon": 60.6848
+        },
+        "temperature": {
+            "now": {
+                "value": 31.58,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "min": {
+                "value": 31.58,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "max": {
+                "value": 31.58,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "day": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "morning": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "evening": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "night": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            }
+        },
+        "humidity": {
+            "value": 18,
+            "unit": "%",
+            "description": "",
+            "precision": null
+        },
+        "pressure": {
+            "value": 1010,
+            "unit": "hPa",
+            "description": "",
+            "precision": null
+        },
+        "wind": {
+            "speed": {
+                "value": 6.97,
+                "unit": "m\/s",
+                "description": "Moderate breeze",
+                "precision": null
+            },
+            "direction": {
+                "value": 266,
+                "unit": "W",
+                "description": "West",
+                "precision": null
+            }
+        },
+        "clouds": {
+            "value": 100,
+            "unit": "%",
+            "description": "\u067e\u0648\u0634\u06cc\u062f\u0647 \u0627\u0632 \u0627\u0628\u0631",
+            "precision": null
+        },
+        "precipitation": {
+            "value": 0,
+            "unit": "",
+            "description": "",
+            "precision": null
+        },
+        "sun": {
+            "rise": {
+                "date": "2020-04-11 01:36:47.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "set": {
+                "date": "2020-04-11 14:19:17.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        },
+        "weather": {
+            "id": 804,
+            "description": "\u067e\u0648\u0634\u06cc\u062f\u0647 \u0627\u0632 \u0627\u0628\u0631",
+            "icon": "04d"
+        },
+        "lastUpdate": {
+            "date": "2020-04-11 12:53:09.060242",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    {
+        "time": {
+            "from": {
+                "date": "2020-04-13 12:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "to": {
+                "date": "2020-04-13 15:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "day": {
+                "date": "2020-04-13 00:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        },
+        "city": {
+            "id": 1160939,
+            "name": "Qal\u2018eh-ye N\u0101\u015fer\u012b",
+            "country": "IR",
+            "population": null,
+            "timezone": {
+                "timezone_type": 1,
+                "timezone": "+04:30"
+            },
+            "lat": 27.2025,
+            "lon": 60.6848
+        },
+        "temperature": {
+            "now": {
+                "value": 28.97,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "min": {
+                "value": 28.97,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "max": {
+                "value": 28.97,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "day": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "morning": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "evening": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "night": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            }
+        },
+        "humidity": {
+            "value": 24,
+            "unit": "%",
+            "description": "",
+            "precision": null
+        },
+        "pressure": {
+            "value": 1012,
+            "unit": "hPa",
+            "description": "",
+            "precision": null
+        },
+        "wind": {
+            "speed": {
+                "value": 6.68,
+                "unit": "m\/s",
+                "description": "Moderate breeze",
+                "precision": null
+            },
+            "direction": {
+                "value": 288,
+                "unit": "WNW",
+                "description": "West-northwest",
+                "precision": null
+            }
+        },
+        "clouds": {
+            "value": 100,
+            "unit": "%",
+            "description": "\u067e\u0648\u0634\u06cc\u062f\u0647 \u0627\u0632 \u0627\u0628\u0631",
+            "precision": null
+        },
+        "precipitation": {
+            "value": 0,
+            "unit": "",
+            "description": "",
+            "precision": null
+        },
+        "sun": {
+            "rise": {
+                "date": "2020-04-11 01:36:47.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "set": {
+                "date": "2020-04-11 14:19:17.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        },
+        "weather": {
+            "id": 804,
+            "description": "\u067e\u0648\u0634\u06cc\u062f\u0647 \u0627\u0632 \u0627\u0628\u0631",
+            "icon": "04n"
+        },
+        "lastUpdate": {
+            "date": "2020-04-11 12:53:09.060455",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    {
+        "time": {
+            "from": {
+                "date": "2020-04-13 15:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "to": {
+                "date": "2020-04-13 18:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "day": {
+                "date": "2020-04-13 00:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        },
+        "city": {
+            "id": 1160939,
+            "name": "Qal\u2018eh-ye N\u0101\u015fer\u012b",
+            "country": "IR",
+            "population": null,
+            "timezone": {
+                "timezone_type": 1,
+                "timezone": "+04:30"
+            },
+            "lat": 27.2025,
+            "lon": 60.6848
+        },
+        "temperature": {
+            "now": {
+                "value": 25.33,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "min": {
+                "value": 25.33,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "max": {
+                "value": 25.33,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "day": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "morning": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "evening": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "night": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            }
+        },
+        "humidity": {
+            "value": 37,
+            "unit": "%",
+            "description": "",
+            "precision": null
+        },
+        "pressure": {
+            "value": 1014,
+            "unit": "hPa",
+            "description": "",
+            "precision": null
+        },
+        "wind": {
+            "speed": {
+                "value": 6.41,
+                "unit": "m\/s",
+                "description": "Moderate breeze",
+                "precision": null
+            },
+            "direction": {
+                "value": 295,
+                "unit": "WNW",
+                "description": "West-northwest",
+                "precision": null
+            }
+        },
+        "clouds": {
+            "value": 97,
+            "unit": "%",
+            "description": "\u067e\u0648\u0634\u06cc\u062f\u0647 \u0627\u0632 \u0627\u0628\u0631",
+            "precision": null
+        },
+        "precipitation": {
+            "value": 0,
+            "unit": "",
+            "description": "",
+            "precision": null
+        },
+        "sun": {
+            "rise": {
+                "date": "2020-04-11 01:36:47.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "set": {
+                "date": "2020-04-11 14:19:17.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        },
+        "weather": {
+            "id": 804,
+            "description": "\u067e\u0648\u0634\u06cc\u062f\u0647 \u0627\u0632 \u0627\u0628\u0631",
+            "icon": "04n"
+        },
+        "lastUpdate": {
+            "date": "2020-04-11 12:53:09.060685",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    {
+        "time": {
+            "from": {
+                "date": "2020-04-13 18:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "to": {
+                "date": "2020-04-13 21:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "day": {
+                "date": "2020-04-13 00:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        },
+        "city": {
+            "id": 1160939,
+            "name": "Qal\u2018eh-ye N\u0101\u015fer\u012b",
+            "country": "IR",
+            "population": null,
+            "timezone": {
+                "timezone_type": 1,
+                "timezone": "+04:30"
+            },
+            "lat": 27.2025,
+            "lon": 60.6848
+        },
+        "temperature": {
+            "now": {
+                "value": 23.5,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "min": {
+                "value": 23.5,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "max": {
+                "value": 23.5,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "day": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "morning": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "evening": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "night": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            }
+        },
+        "humidity": {
+            "value": 42,
+            "unit": "%",
+            "description": "",
+            "precision": null
+        },
+        "pressure": {
+            "value": 1013,
+            "unit": "hPa",
+            "description": "",
+            "precision": null
+        },
+        "wind": {
+            "speed": {
+                "value": 4.79,
+                "unit": "m\/s",
+                "description": "Gentle Breeze",
+                "precision": null
+            },
+            "direction": {
+                "value": 250,
+                "unit": "WSW",
+                "description": "West-southwest",
+                "precision": null
+            }
+        },
+        "clouds": {
+            "value": 100,
+            "unit": "%",
+            "description": "\u067e\u0648\u0634\u06cc\u062f\u0647 \u0627\u0632 \u0627\u0628\u0631",
+            "precision": null
+        },
+        "precipitation": {
+            "value": 0,
+            "unit": "",
+            "description": "",
+            "precision": null
+        },
+        "sun": {
+            "rise": {
+                "date": "2020-04-11 01:36:47.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "set": {
+                "date": "2020-04-11 14:19:17.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        },
+        "weather": {
+            "id": 804,
+            "description": "\u067e\u0648\u0634\u06cc\u062f\u0647 \u0627\u0632 \u0627\u0628\u0631",
+            "icon": "04n"
+        },
+        "lastUpdate": {
+            "date": "2020-04-11 12:53:09.060923",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    {
+        "time": {
+            "from": {
+                "date": "2020-04-13 21:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "to": {
+                "date": "2020-04-14 00:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "day": {
+                "date": "2020-04-13 00:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        },
+        "city": {
+            "id": 1160939,
+            "name": "Qal\u2018eh-ye N\u0101\u015fer\u012b",
+            "country": "IR",
+            "population": null,
+            "timezone": {
+                "timezone_type": 1,
+                "timezone": "+04:30"
+            },
+            "lat": 27.2025,
+            "lon": 60.6848
+        },
+        "temperature": {
+            "now": {
+                "value": 22.86,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "min": {
+                "value": 22.86,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "max": {
+                "value": 22.86,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "day": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "morning": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "evening": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "night": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            }
+        },
+        "humidity": {
+            "value": 43,
+            "unit": "%",
+            "description": "",
+            "precision": null
+        },
+        "pressure": {
+            "value": 1011,
+            "unit": "hPa",
+            "description": "",
+            "precision": null
+        },
+        "wind": {
+            "speed": {
+                "value": 1.71,
+                "unit": "m\/s",
+                "description": "Light breeze",
+                "precision": null
+            },
+            "direction": {
+                "value": 263,
+                "unit": "W",
+                "description": "West",
+                "precision": null
+            }
+        },
+        "clouds": {
+            "value": 100,
+            "unit": "%",
+            "description": "\u067e\u0648\u0634\u06cc\u062f\u0647 \u0627\u0632 \u0627\u0628\u0631",
+            "precision": null
+        },
+        "precipitation": {
+            "value": 0,
+            "unit": "",
+            "description": "",
+            "precision": null
+        },
+        "sun": {
+            "rise": {
+                "date": "2020-04-11 01:36:47.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "set": {
+                "date": "2020-04-11 14:19:17.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        },
+        "weather": {
+            "id": 804,
+            "description": "\u067e\u0648\u0634\u06cc\u062f\u0647 \u0627\u0632 \u0627\u0628\u0631",
+            "icon": "04n"
+        },
+        "lastUpdate": {
+            "date": "2020-04-11 12:53:09.061178",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    {
+        "time": {
+            "from": {
+                "date": "2020-04-14 00:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "to": {
+                "date": "2020-04-14 03:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "day": {
+                "date": "2020-04-14 00:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        },
+        "city": {
+            "id": 1160939,
+            "name": "Qal\u2018eh-ye N\u0101\u015fer\u012b",
+            "country": "IR",
+            "population": null,
+            "timezone": {
+                "timezone_type": 1,
+                "timezone": "+04:30"
+            },
+            "lat": 27.2025,
+            "lon": 60.6848
+        },
+        "temperature": {
+            "now": {
+                "value": 22.6,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "min": {
+                "value": 22.6,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "max": {
+                "value": 22.6,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "day": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "morning": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "evening": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "night": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            }
+        },
+        "humidity": {
+            "value": 45,
+            "unit": "%",
+            "description": "",
+            "precision": null
+        },
+        "pressure": {
+            "value": 1013,
+            "unit": "hPa",
+            "description": "",
+            "precision": null
+        },
+        "wind": {
+            "speed": {
+                "value": 0.38,
+                "unit": "m\/s",
+                "description": "Calm",
+                "precision": null
+            },
+            "direction": {
+                "value": 311,
+                "unit": "NW",
+                "description": "Northwest",
+                "precision": null
+            }
+        },
+        "clouds": {
+            "value": 83,
+            "unit": "%",
+            "description": "\u0627\u0628\u0631\u0647\u0627\u06cc \u067e\u0627\u0631\u0686\u0647 \u067e\u0627\u0631\u0686\u0647 \u0634\u062f\u0647",
+            "precision": null
+        },
+        "precipitation": {
+            "value": 0,
+            "unit": "",
+            "description": "",
+            "precision": null
+        },
+        "sun": {
+            "rise": {
+                "date": "2020-04-11 01:36:47.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "set": {
+                "date": "2020-04-11 14:19:17.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        },
+        "weather": {
+            "id": 803,
+            "description": "\u0627\u0628\u0631\u0647\u0627\u06cc \u067e\u0627\u0631\u0686\u0647 \u067e\u0627\u0631\u0686\u0647 \u0634\u062f\u0647",
+            "icon": "04d"
+        },
+        "lastUpdate": {
+            "date": "2020-04-11 12:53:09.061435",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    {
+        "time": {
+            "from": {
+                "date": "2020-04-14 03:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "to": {
+                "date": "2020-04-14 06:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "day": {
+                "date": "2020-04-14 00:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        },
+        "city": {
+            "id": 1160939,
+            "name": "Qal\u2018eh-ye N\u0101\u015fer\u012b",
+            "country": "IR",
+            "population": null,
+            "timezone": {
+                "timezone_type": 1,
+                "timezone": "+04:30"
+            },
+            "lat": 27.2025,
+            "lon": 60.6848
+        },
+        "temperature": {
+            "now": {
+                "value": 26.49,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "min": {
+                "value": 26.49,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "max": {
+                "value": 26.49,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "day": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "morning": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "evening": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "night": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            }
+        },
+        "humidity": {
+            "value": 32,
+            "unit": "%",
+            "description": "",
+            "precision": null
+        },
+        "pressure": {
+            "value": 1013,
+            "unit": "hPa",
+            "description": "",
+            "precision": null
+        },
+        "wind": {
+            "speed": {
+                "value": 2.37,
+                "unit": "m\/s",
+                "description": "Light breeze",
+                "precision": null
+            },
+            "direction": {
+                "value": 283,
+                "unit": "WNW",
+                "description": "West-northwest",
+                "precision": null
+            }
+        },
+        "clouds": {
+            "value": 74,
+            "unit": "%",
+            "description": "\u0627\u0628\u0631\u0647\u0627\u06cc \u067e\u0627\u0631\u0686\u0647 \u067e\u0627\u0631\u0686\u0647 \u0634\u062f\u0647",
+            "precision": null
+        },
+        "precipitation": {
+            "value": 0,
+            "unit": "",
+            "description": "",
+            "precision": null
+        },
+        "sun": {
+            "rise": {
+                "date": "2020-04-11 01:36:47.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "set": {
+                "date": "2020-04-11 14:19:17.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        },
+        "weather": {
+            "id": 803,
+            "description": "\u0627\u0628\u0631\u0647\u0627\u06cc \u067e\u0627\u0631\u0686\u0647 \u067e\u0627\u0631\u0686\u0647 \u0634\u062f\u0647",
+            "icon": "04d"
+        },
+        "lastUpdate": {
+            "date": "2020-04-11 12:53:09.061678",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    {
+        "time": {
+            "from": {
+                "date": "2020-04-14 06:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "to": {
+                "date": "2020-04-14 09:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "day": {
+                "date": "2020-04-14 00:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        },
+        "city": {
+            "id": 1160939,
+            "name": "Qal\u2018eh-ye N\u0101\u015fer\u012b",
+            "country": "IR",
+            "population": null,
+            "timezone": {
+                "timezone_type": 1,
+                "timezone": "+04:30"
+            },
+            "lat": 27.2025,
+            "lon": 60.6848
+        },
+        "temperature": {
+            "now": {
+                "value": 30.23,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "min": {
+                "value": 30.23,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "max": {
+                "value": 30.23,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "day": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "morning": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "evening": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "night": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            }
+        },
+        "humidity": {
+            "value": 25,
+            "unit": "%",
+            "description": "",
+            "precision": null
+        },
+        "pressure": {
+            "value": 1010,
+            "unit": "hPa",
+            "description": "",
+            "precision": null
+        },
+        "wind": {
+            "speed": {
+                "value": 5.48,
+                "unit": "m\/s",
+                "description": "Gentle Breeze",
+                "precision": null
+            },
+            "direction": {
+                "value": 285,
+                "unit": "WNW",
+                "description": "West-northwest",
+                "precision": null
+            }
+        },
+        "clouds": {
+            "value": 6,
+            "unit": "%",
+            "description": "\u0622\u0633\u0645\u0627\u0646 \u0635\u0627\u0641",
+            "precision": null
+        },
+        "precipitation": {
+            "value": 0,
+            "unit": "",
+            "description": "",
+            "precision": null
+        },
+        "sun": {
+            "rise": {
+                "date": "2020-04-11 01:36:47.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "set": {
+                "date": "2020-04-11 14:19:17.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        },
+        "weather": {
+            "id": 800,
+            "description": "\u0622\u0633\u0645\u0627\u0646 \u0635\u0627\u0641",
+            "icon": "01d"
+        },
+        "lastUpdate": {
+            "date": "2020-04-11 12:53:09.061974",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    {
+        "time": {
+            "from": {
+                "date": "2020-04-14 09:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "to": {
+                "date": "2020-04-14 12:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "day": {
+                "date": "2020-04-14 00:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        },
+        "city": {
+            "id": 1160939,
+            "name": "Qal\u2018eh-ye N\u0101\u015fer\u012b",
+            "country": "IR",
+            "population": null,
+            "timezone": {
+                "timezone_type": 1,
+                "timezone": "+04:30"
+            },
+            "lat": 27.2025,
+            "lon": 60.6848
+        },
+        "temperature": {
+            "now": {
+                "value": 30.86,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "min": {
+                "value": 30.86,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "max": {
+                "value": 30.86,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "day": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "morning": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "evening": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "night": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            }
+        },
+        "humidity": {
+            "value": 24,
+            "unit": "%",
+            "description": "",
+            "precision": null
+        },
+        "pressure": {
+            "value": 1009,
+            "unit": "hPa",
+            "description": "",
+            "precision": null
+        },
+        "wind": {
+            "speed": {
+                "value": 7.19,
+                "unit": "m\/s",
+                "description": "Moderate breeze",
+                "precision": null
+            },
+            "direction": {
+                "value": 264,
+                "unit": "W",
+                "description": "West",
+                "precision": null
+            }
+        },
+        "clouds": {
+            "value": 3,
+            "unit": "%",
+            "description": "\u0622\u0633\u0645\u0627\u0646 \u0635\u0627\u0641",
+            "precision": null
+        },
+        "precipitation": {
+            "value": 0,
+            "unit": "",
+            "description": "",
+            "precision": null
+        },
+        "sun": {
+            "rise": {
+                "date": "2020-04-11 01:36:47.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "set": {
+                "date": "2020-04-11 14:19:17.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        },
+        "weather": {
+            "id": 800,
+            "description": "\u0622\u0633\u0645\u0627\u0646 \u0635\u0627\u0641",
+            "icon": "01d"
+        },
+        "lastUpdate": {
+            "date": "2020-04-11 12:53:09.062190",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    {
+        "time": {
+            "from": {
+                "date": "2020-04-14 12:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "to": {
+                "date": "2020-04-14 15:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "day": {
+                "date": "2020-04-14 00:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        },
+        "city": {
+            "id": 1160939,
+            "name": "Qal\u2018eh-ye N\u0101\u015fer\u012b",
+            "country": "IR",
+            "population": null,
+            "timezone": {
+                "timezone_type": 1,
+                "timezone": "+04:30"
+            },
+            "lat": 27.2025,
+            "lon": 60.6848
+        },
+        "temperature": {
+            "now": {
+                "value": 27.78,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "min": {
+                "value": 27.78,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "max": {
+                "value": 27.78,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "day": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "morning": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "evening": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "night": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            }
+        },
+        "humidity": {
+            "value": 31,
+            "unit": "%",
+            "description": "",
+            "precision": null
+        },
+        "pressure": {
+            "value": 1011,
+            "unit": "hPa",
+            "description": "",
+            "precision": null
+        },
+        "wind": {
+            "speed": {
+                "value": 2.86,
+                "unit": "m\/s",
+                "description": "Light breeze",
+                "precision": null
+            },
+            "direction": {
+                "value": 196,
+                "unit": "SSW",
+                "description": "South-southwest",
+                "precision": null
+            }
+        },
+        "clouds": {
+            "value": 67,
+            "unit": "%",
+            "description": "\u0627\u0628\u0631\u0647\u0627\u06cc \u067e\u0627\u0631\u0686\u0647 \u067e\u0627\u0631\u0686\u0647 \u0634\u062f\u0647",
+            "precision": null
+        },
+        "precipitation": {
+            "value": 0.37,
+            "unit": "",
+            "description": "rain",
+            "precision": null
+        },
+        "sun": {
+            "rise": {
+                "date": "2020-04-11 01:36:47.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "set": {
+                "date": "2020-04-11 14:19:17.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        },
+        "weather": {
+            "id": 500,
+            "description": "\u0628\u0627\u0631\u0634 \u062e\u0641\u06cc\u0641 \u0628\u0627\u0631\u0627\u0646",
+            "icon": "10n"
+        },
+        "lastUpdate": {
+            "date": "2020-04-11 12:53:09.062409",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    {
+        "time": {
+            "from": {
+                "date": "2020-04-14 15:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "to": {
+                "date": "2020-04-14 18:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "day": {
+                "date": "2020-04-14 00:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        },
+        "city": {
+            "id": 1160939,
+            "name": "Qal\u2018eh-ye N\u0101\u015fer\u012b",
+            "country": "IR",
+            "population": null,
+            "timezone": {
+                "timezone_type": 1,
+                "timezone": "+04:30"
+            },
+            "lat": 27.2025,
+            "lon": 60.6848
+        },
+        "temperature": {
+            "now": {
+                "value": 26.84,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "min": {
+                "value": 26.84,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "max": {
+                "value": 26.84,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "day": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "morning": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "evening": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "night": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            }
+        },
+        "humidity": {
+            "value": 34,
+            "unit": "%",
+            "description": "",
+            "precision": null
+        },
+        "pressure": {
+            "value": 1014,
+            "unit": "hPa",
+            "description": "",
+            "precision": null
+        },
+        "wind": {
+            "speed": {
+                "value": 1.22,
+                "unit": "m\/s",
+                "description": "Calm",
+                "precision": null
+            },
+            "direction": {
+                "value": 133,
+                "unit": "SE",
+                "description": "SouthEast",
+                "precision": null
+            }
+        },
+        "clouds": {
+            "value": 51,
+            "unit": "%",
+            "description": "\u0627\u0628\u0631\u0647\u0627\u06cc \u067e\u0627\u0631\u0686\u0647 \u067e\u0627\u0631\u0686\u0647 \u0634\u062f\u0647",
+            "precision": null
+        },
+        "precipitation": {
+            "value": 0.35,
+            "unit": "",
+            "description": "rain",
+            "precision": null
+        },
+        "sun": {
+            "rise": {
+                "date": "2020-04-11 01:36:47.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "set": {
+                "date": "2020-04-11 14:19:17.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        },
+        "weather": {
+            "id": 500,
+            "description": "\u0628\u0627\u0631\u0634 \u062e\u0641\u06cc\u0641 \u0628\u0627\u0631\u0627\u0646",
+            "icon": "10n"
+        },
+        "lastUpdate": {
+            "date": "2020-04-11 12:53:09.062627",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    {
+        "time": {
+            "from": {
+                "date": "2020-04-14 18:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "to": {
+                "date": "2020-04-14 21:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "day": {
+                "date": "2020-04-14 00:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        },
+        "city": {
+            "id": 1160939,
+            "name": "Qal\u2018eh-ye N\u0101\u015fer\u012b",
+            "country": "IR",
+            "population": null,
+            "timezone": {
+                "timezone_type": 1,
+                "timezone": "+04:30"
+            },
+            "lat": 27.2025,
+            "lon": 60.6848
+        },
+        "temperature": {
+            "now": {
+                "value": 25.92,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "min": {
+                "value": 25.92,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "max": {
+                "value": 25.92,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "day": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "morning": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "evening": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "night": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            }
+        },
+        "humidity": {
+            "value": 36,
+            "unit": "%",
+            "description": "",
+            "precision": null
+        },
+        "pressure": {
+            "value": 1013,
+            "unit": "hPa",
+            "description": "",
+            "precision": null
+        },
+        "wind": {
+            "speed": {
+                "value": 0.94,
+                "unit": "m\/s",
+                "description": "Calm",
+                "precision": null
+            },
+            "direction": {
+                "value": 309,
+                "unit": "NW",
+                "description": "Northwest",
+                "precision": null
+            }
+        },
+        "clouds": {
+            "value": 6,
+            "unit": "%",
+            "description": "\u0622\u0633\u0645\u0627\u0646 \u0635\u0627\u0641",
+            "precision": null
+        },
+        "precipitation": {
+            "value": 0,
+            "unit": "",
+            "description": "",
+            "precision": null
+        },
+        "sun": {
+            "rise": {
+                "date": "2020-04-11 01:36:47.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "set": {
+                "date": "2020-04-11 14:19:17.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        },
+        "weather": {
+            "id": 800,
+            "description": "\u0622\u0633\u0645\u0627\u0646 \u0635\u0627\u0641",
+            "icon": "01n"
+        },
+        "lastUpdate": {
+            "date": "2020-04-11 12:53:09.062873",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    {
+        "time": {
+            "from": {
+                "date": "2020-04-14 21:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "to": {
+                "date": "2020-04-15 00:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "day": {
+                "date": "2020-04-14 00:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        },
+        "city": {
+            "id": 1160939,
+            "name": "Qal\u2018eh-ye N\u0101\u015fer\u012b",
+            "country": "IR",
+            "population": null,
+            "timezone": {
+                "timezone_type": 1,
+                "timezone": "+04:30"
+            },
+            "lat": 27.2025,
+            "lon": 60.6848
+        },
+        "temperature": {
+            "now": {
+                "value": 24.77,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "min": {
+                "value": 24.77,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "max": {
+                "value": 24.77,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "day": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "morning": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "evening": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "night": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            }
+        },
+        "humidity": {
+            "value": 39,
+            "unit": "%",
+            "description": "",
+            "precision": null
+        },
+        "pressure": {
+            "value": 1012,
+            "unit": "hPa",
+            "description": "",
+            "precision": null
+        },
+        "wind": {
+            "speed": {
+                "value": 0.13,
+                "unit": "m\/s",
+                "description": "Setting",
+                "precision": null
+            },
+            "direction": {
+                "value": 40,
+                "unit": "NE",
+                "description": "NorthEast",
+                "precision": null
+            }
+        },
+        "clouds": {
+            "value": 46,
+            "unit": "%",
+            "description": "\u0627\u0628\u0631\u0647\u0627\u06cc \u067e\u0631\u0627\u06a9\u0646\u062f\u0647",
+            "precision": null
+        },
+        "precipitation": {
+            "value": 0,
+            "unit": "",
+            "description": "",
+            "precision": null
+        },
+        "sun": {
+            "rise": {
+                "date": "2020-04-11 01:36:47.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "set": {
+                "date": "2020-04-11 14:19:17.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        },
+        "weather": {
+            "id": 802,
+            "description": "\u0627\u0628\u0631\u0647\u0627\u06cc \u067e\u0631\u0627\u06a9\u0646\u062f\u0647",
+            "icon": "03n"
+        },
+        "lastUpdate": {
+            "date": "2020-04-11 12:53:09.063089",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    {
+        "time": {
+            "from": {
+                "date": "2020-04-15 00:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "to": {
+                "date": "2020-04-15 03:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "day": {
+                "date": "2020-04-15 00:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        },
+        "city": {
+            "id": 1160939,
+            "name": "Qal\u2018eh-ye N\u0101\u015fer\u012b",
+            "country": "IR",
+            "population": null,
+            "timezone": {
+                "timezone_type": 1,
+                "timezone": "+04:30"
+            },
+            "lat": 27.2025,
+            "lon": 60.6848
+        },
+        "temperature": {
+            "now": {
+                "value": 25.79,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "min": {
+                "value": 25.79,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "max": {
+                "value": 25.79,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "day": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "morning": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "evening": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "night": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            }
+        },
+        "humidity": {
+            "value": 35,
+            "unit": "%",
+            "description": "",
+            "precision": null
+        },
+        "pressure": {
+            "value": 1013,
+            "unit": "hPa",
+            "description": "",
+            "precision": null
+        },
+        "wind": {
+            "speed": {
+                "value": 1.15,
+                "unit": "m\/s",
+                "description": "Calm",
+                "precision": null
+            },
+            "direction": {
+                "value": 88,
+                "unit": "E",
+                "description": "East",
+                "precision": null
+            }
+        },
+        "clouds": {
+            "value": 100,
+            "unit": "%",
+            "description": "\u067e\u0648\u0634\u06cc\u062f\u0647 \u0627\u0632 \u0627\u0628\u0631",
+            "precision": null
+        },
+        "precipitation": {
+            "value": 0,
+            "unit": "",
+            "description": "",
+            "precision": null
+        },
+        "sun": {
+            "rise": {
+                "date": "2020-04-11 01:36:47.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "set": {
+                "date": "2020-04-11 14:19:17.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        },
+        "weather": {
+            "id": 804,
+            "description": "\u067e\u0648\u0634\u06cc\u062f\u0647 \u0627\u0632 \u0627\u0628\u0631",
+            "icon": "04d"
+        },
+        "lastUpdate": {
+            "date": "2020-04-11 12:53:09.063302",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    {
+        "time": {
+            "from": {
+                "date": "2020-04-15 03:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "to": {
+                "date": "2020-04-15 06:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "day": {
+                "date": "2020-04-15 00:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        },
+        "city": {
+            "id": 1160939,
+            "name": "Qal\u2018eh-ye N\u0101\u015fer\u012b",
+            "country": "IR",
+            "population": null,
+            "timezone": {
+                "timezone_type": 1,
+                "timezone": "+04:30"
+            },
+            "lat": 27.2025,
+            "lon": 60.6848
+        },
+        "temperature": {
+            "now": {
+                "value": 28.61,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "min": {
+                "value": 28.61,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "max": {
+                "value": 28.61,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "day": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "morning": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "evening": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "night": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            }
+        },
+        "humidity": {
+            "value": 29,
+            "unit": "%",
+            "description": "",
+            "precision": null
+        },
+        "pressure": {
+            "value": 1014,
+            "unit": "hPa",
+            "description": "",
+            "precision": null
+        },
+        "wind": {
+            "speed": {
+                "value": 1.81,
+                "unit": "m\/s",
+                "description": "Light breeze",
+                "precision": null
+            },
+            "direction": {
+                "value": 267,
+                "unit": "W",
+                "description": "West",
+                "precision": null
+            }
+        },
+        "clouds": {
+            "value": 98,
+            "unit": "%",
+            "description": "\u067e\u0648\u0634\u06cc\u062f\u0647 \u0627\u0632 \u0627\u0628\u0631",
+            "precision": null
+        },
+        "precipitation": {
+            "value": 0,
+            "unit": "",
+            "description": "",
+            "precision": null
+        },
+        "sun": {
+            "rise": {
+                "date": "2020-04-11 01:36:47.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "set": {
+                "date": "2020-04-11 14:19:17.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        },
+        "weather": {
+            "id": 804,
+            "description": "\u067e\u0648\u0634\u06cc\u062f\u0647 \u0627\u0632 \u0627\u0628\u0631",
+            "icon": "04d"
+        },
+        "lastUpdate": {
+            "date": "2020-04-11 12:53:09.063514",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    {
+        "time": {
+            "from": {
+                "date": "2020-04-15 06:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "to": {
+                "date": "2020-04-15 09:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "day": {
+                "date": "2020-04-15 00:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        },
+        "city": {
+            "id": 1160939,
+            "name": "Qal\u2018eh-ye N\u0101\u015fer\u012b",
+            "country": "IR",
+            "population": null,
+            "timezone": {
+                "timezone_type": 1,
+                "timezone": "+04:30"
+            },
+            "lat": 27.2025,
+            "lon": 60.6848
+        },
+        "temperature": {
+            "now": {
+                "value": 31.49,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "min": {
+                "value": 31.49,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "max": {
+                "value": 31.49,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "day": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "morning": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "evening": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "night": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            }
+        },
+        "humidity": {
+            "value": 22,
+            "unit": "%",
+            "description": "",
+            "precision": null
+        },
+        "pressure": {
+            "value": 1012,
+            "unit": "hPa",
+            "description": "",
+            "precision": null
+        },
+        "wind": {
+            "speed": {
+                "value": 5.62,
+                "unit": "m\/s",
+                "description": "Moderate breeze",
+                "precision": null
+            },
+            "direction": {
+                "value": 282,
+                "unit": "WNW",
+                "description": "West-northwest",
+                "precision": null
+            }
+        },
+        "clouds": {
+            "value": 100,
+            "unit": "%",
+            "description": "\u067e\u0648\u0634\u06cc\u062f\u0647 \u0627\u0632 \u0627\u0628\u0631",
+            "precision": null
+        },
+        "precipitation": {
+            "value": 0,
+            "unit": "",
+            "description": "",
+            "precision": null
+        },
+        "sun": {
+            "rise": {
+                "date": "2020-04-11 01:36:47.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "set": {
+                "date": "2020-04-11 14:19:17.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        },
+        "weather": {
+            "id": 804,
+            "description": "\u067e\u0648\u0634\u06cc\u062f\u0647 \u0627\u0632 \u0627\u0628\u0631",
+            "icon": "04d"
+        },
+        "lastUpdate": {
+            "date": "2020-04-11 12:53:09.063758",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    {
+        "time": {
+            "from": {
+                "date": "2020-04-15 09:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "to": {
+                "date": "2020-04-15 12:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "day": {
+                "date": "2020-04-15 00:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        },
+        "city": {
+            "id": 1160939,
+            "name": "Qal\u2018eh-ye N\u0101\u015fer\u012b",
+            "country": "IR",
+            "population": null,
+            "timezone": {
+                "timezone_type": 1,
+                "timezone": "+04:30"
+            },
+            "lat": 27.2025,
+            "lon": 60.6848
+        },
+        "temperature": {
+            "now": {
+                "value": 28.32,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "min": {
+                "value": 28.32,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "max": {
+                "value": 28.32,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "day": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "morning": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "evening": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "night": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            }
+        },
+        "humidity": {
+            "value": 30,
+            "unit": "%",
+            "description": "",
+            "precision": null
+        },
+        "pressure": {
+            "value": 1011,
+            "unit": "hPa",
+            "description": "",
+            "precision": null
+        },
+        "wind": {
+            "speed": {
+                "value": 6.34,
+                "unit": "m\/s",
+                "description": "Moderate breeze",
+                "precision": null
+            },
+            "direction": {
+                "value": 245,
+                "unit": "WSW",
+                "description": "West-southwest",
+                "precision": null
+            }
+        },
+        "clouds": {
+            "value": 100,
+            "unit": "%",
+            "description": "\u067e\u0648\u0634\u06cc\u062f\u0647 \u0627\u0632 \u0627\u0628\u0631",
+            "precision": null
+        },
+        "precipitation": {
+            "value": 1.24,
+            "unit": "",
+            "description": "rain",
+            "precision": null
+        },
+        "sun": {
+            "rise": {
+                "date": "2020-04-11 01:36:47.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "set": {
+                "date": "2020-04-11 14:19:17.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        },
+        "weather": {
+            "id": 500,
+            "description": "\u0628\u0627\u0631\u0634 \u062e\u0641\u06cc\u0641 \u0628\u0627\u0631\u0627\u0646",
+            "icon": "10d"
+        },
+        "lastUpdate": {
+            "date": "2020-04-11 12:53:09.063978",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    {
+        "time": {
+            "from": {
+                "date": "2020-04-15 12:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "to": {
+                "date": "2020-04-15 15:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "day": {
+                "date": "2020-04-15 00:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        },
+        "city": {
+            "id": 1160939,
+            "name": "Qal\u2018eh-ye N\u0101\u015fer\u012b",
+            "country": "IR",
+            "population": null,
+            "timezone": {
+                "timezone_type": 1,
+                "timezone": "+04:30"
+            },
+            "lat": 27.2025,
+            "lon": 60.6848
+        },
+        "temperature": {
+            "now": {
+                "value": 25.94,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "min": {
+                "value": 25.94,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "max": {
+                "value": 25.94,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "day": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "morning": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "evening": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "night": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            }
+        },
+        "humidity": {
+            "value": 34,
+            "unit": "%",
+            "description": "",
+            "precision": null
+        },
+        "pressure": {
+            "value": 1013,
+            "unit": "hPa",
+            "description": "",
+            "precision": null
+        },
+        "wind": {
+            "speed": {
+                "value": 2.09,
+                "unit": "m\/s",
+                "description": "Light breeze",
+                "precision": null
+            },
+            "direction": {
+                "value": 196,
+                "unit": "SSW",
+                "description": "South-southwest",
+                "precision": null
+            }
+        },
+        "clouds": {
+            "value": 100,
+            "unit": "%",
+            "description": "\u067e\u0648\u0634\u06cc\u062f\u0647 \u0627\u0632 \u0627\u0628\u0631",
+            "precision": null
+        },
+        "precipitation": {
+            "value": 1.18,
+            "unit": "",
+            "description": "rain",
+            "precision": null
+        },
+        "sun": {
+            "rise": {
+                "date": "2020-04-11 01:36:47.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "set": {
+                "date": "2020-04-11 14:19:17.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        },
+        "weather": {
+            "id": 500,
+            "description": "\u0628\u0627\u0631\u0634 \u062e\u0641\u06cc\u0641 \u0628\u0627\u0631\u0627\u0646",
+            "icon": "10n"
+        },
+        "lastUpdate": {
+            "date": "2020-04-11 12:53:09.064194",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    {
+        "time": {
+            "from": {
+                "date": "2020-04-15 15:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "to": {
+                "date": "2020-04-15 18:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "day": {
+                "date": "2020-04-15 00:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        },
+        "city": {
+            "id": 1160939,
+            "name": "Qal\u2018eh-ye N\u0101\u015fer\u012b",
+            "country": "IR",
+            "population": null,
+            "timezone": {
+                "timezone_type": 1,
+                "timezone": "+04:30"
+            },
+            "lat": 27.2025,
+            "lon": 60.6848
+        },
+        "temperature": {
+            "now": {
+                "value": 25.79,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "min": {
+                "value": 25.79,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "max": {
+                "value": 25.79,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "day": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "morning": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "evening": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "night": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            }
+        },
+        "humidity": {
+            "value": 33,
+            "unit": "%",
+            "description": "",
+            "precision": null
+        },
+        "pressure": {
+            "value": 1013,
+            "unit": "hPa",
+            "description": "",
+            "precision": null
+        },
+        "wind": {
+            "speed": {
+                "value": 2.24,
+                "unit": "m\/s",
+                "description": "Light breeze",
+                "precision": null
+            },
+            "direction": {
+                "value": 272,
+                "unit": "W",
+                "description": "West",
+                "precision": null
+            }
+        },
+        "clouds": {
+            "value": 100,
+            "unit": "%",
+            "description": "\u067e\u0648\u0634\u06cc\u062f\u0647 \u0627\u0632 \u0627\u0628\u0631",
+            "precision": null
+        },
+        "precipitation": {
+            "value": 0.13,
+            "unit": "",
+            "description": "rain",
+            "precision": null
+        },
+        "sun": {
+            "rise": {
+                "date": "2020-04-11 01:36:47.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "set": {
+                "date": "2020-04-11 14:19:17.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        },
+        "weather": {
+            "id": 500,
+            "description": "\u0628\u0627\u0631\u0634 \u062e\u0641\u06cc\u0641 \u0628\u0627\u0631\u0627\u0646",
+            "icon": "10n"
+        },
+        "lastUpdate": {
+            "date": "2020-04-11 12:53:09.064410",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    {
+        "time": {
+            "from": {
+                "date": "2020-04-15 18:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "to": {
+                "date": "2020-04-15 21:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "day": {
+                "date": "2020-04-15 00:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        },
+        "city": {
+            "id": 1160939,
+            "name": "Qal\u2018eh-ye N\u0101\u015fer\u012b",
+            "country": "IR",
+            "population": null,
+            "timezone": {
+                "timezone_type": 1,
+                "timezone": "+04:30"
+            },
+            "lat": 27.2025,
+            "lon": 60.6848
+        },
+        "temperature": {
+            "now": {
+                "value": 24.42,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "min": {
+                "value": 24.42,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "max": {
+                "value": 24.42,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "day": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "morning": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "evening": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "night": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            }
+        },
+        "humidity": {
+            "value": 40,
+            "unit": "%",
+            "description": "",
+            "precision": null
+        },
+        "pressure": {
+            "value": 1012,
+            "unit": "hPa",
+            "description": "",
+            "precision": null
+        },
+        "wind": {
+            "speed": {
+                "value": 1.74,
+                "unit": "m\/s",
+                "description": "Light breeze",
+                "precision": null
+            },
+            "direction": {
+                "value": 306,
+                "unit": "NW",
+                "description": "Northwest",
+                "precision": null
+            }
+        },
+        "clouds": {
+            "value": 99,
+            "unit": "%",
+            "description": "\u067e\u0648\u0634\u06cc\u062f\u0647 \u0627\u0632 \u0627\u0628\u0631",
+            "precision": null
+        },
+        "precipitation": {
+            "value": 0,
+            "unit": "",
+            "description": "",
+            "precision": null
+        },
+        "sun": {
+            "rise": {
+                "date": "2020-04-11 01:36:47.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "set": {
+                "date": "2020-04-11 14:19:17.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        },
+        "weather": {
+            "id": 804,
+            "description": "\u067e\u0648\u0634\u06cc\u062f\u0647 \u0627\u0632 \u0627\u0628\u0631",
+            "icon": "04n"
+        },
+        "lastUpdate": {
+            "date": "2020-04-11 12:53:09.064622",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    {
+        "time": {
+            "from": {
+                "date": "2020-04-15 21:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "to": {
+                "date": "2020-04-16 00:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "day": {
+                "date": "2020-04-15 00:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        },
+        "city": {
+            "id": 1160939,
+            "name": "Qal\u2018eh-ye N\u0101\u015fer\u012b",
+            "country": "IR",
+            "population": null,
+            "timezone": {
+                "timezone_type": 1,
+                "timezone": "+04:30"
+            },
+            "lat": 27.2025,
+            "lon": 60.6848
+        },
+        "temperature": {
+            "now": {
+                "value": 23.28,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "min": {
+                "value": 23.28,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "max": {
+                "value": 23.28,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "day": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "morning": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "evening": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "night": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            }
+        },
+        "humidity": {
+            "value": 45,
+            "unit": "%",
+            "description": "",
+            "precision": null
+        },
+        "pressure": {
+            "value": 1010,
+            "unit": "hPa",
+            "description": "",
+            "precision": null
+        },
+        "wind": {
+            "speed": {
+                "value": 1.62,
+                "unit": "m\/s",
+                "description": "Light breeze",
+                "precision": null
+            },
+            "direction": {
+                "value": 251,
+                "unit": "WSW",
+                "description": "West-southwest",
+                "precision": null
+            }
+        },
+        "clouds": {
+            "value": 97,
+            "unit": "%",
+            "description": "\u067e\u0648\u0634\u06cc\u062f\u0647 \u0627\u0632 \u0627\u0628\u0631",
+            "precision": null
+        },
+        "precipitation": {
+            "value": 0,
+            "unit": "",
+            "description": "",
+            "precision": null
+        },
+        "sun": {
+            "rise": {
+                "date": "2020-04-11 01:36:47.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "set": {
+                "date": "2020-04-11 14:19:17.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        },
+        "weather": {
+            "id": 804,
+            "description": "\u067e\u0648\u0634\u06cc\u062f\u0647 \u0627\u0632 \u0627\u0628\u0631",
+            "icon": "04n"
+        },
+        "lastUpdate": {
+            "date": "2020-04-11 12:53:09.064856",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    {
+        "time": {
+            "from": {
+                "date": "2020-04-16 00:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "to": {
+                "date": "2020-04-16 03:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "day": {
+                "date": "2020-04-16 00:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        },
+        "city": {
+            "id": 1160939,
+            "name": "Qal\u2018eh-ye N\u0101\u015fer\u012b",
+            "country": "IR",
+            "population": null,
+            "timezone": {
+                "timezone_type": 1,
+                "timezone": "+04:30"
+            },
+            "lat": 27.2025,
+            "lon": 60.6848
+        },
+        "temperature": {
+            "now": {
+                "value": 23.54,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "min": {
+                "value": 23.54,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "max": {
+                "value": 23.54,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "day": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "morning": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "evening": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "night": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            }
+        },
+        "humidity": {
+            "value": 43,
+            "unit": "%",
+            "description": "",
+            "precision": null
+        },
+        "pressure": {
+            "value": 1012,
+            "unit": "hPa",
+            "description": "",
+            "precision": null
+        },
+        "wind": {
+            "speed": {
+                "value": 0.93,
+                "unit": "m\/s",
+                "description": "Calm",
+                "precision": null
+            },
+            "direction": {
+                "value": 212,
+                "unit": "SSW",
+                "description": "South-southwest",
+                "precision": null
+            }
+        },
+        "clouds": {
+            "value": 100,
+            "unit": "%",
+            "description": "\u067e\u0648\u0634\u06cc\u062f\u0647 \u0627\u0632 \u0627\u0628\u0631",
+            "precision": null
+        },
+        "precipitation": {
+            "value": 0,
+            "unit": "",
+            "description": "",
+            "precision": null
+        },
+        "sun": {
+            "rise": {
+                "date": "2020-04-11 01:36:47.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "set": {
+                "date": "2020-04-11 14:19:17.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        },
+        "weather": {
+            "id": 804,
+            "description": "\u067e\u0648\u0634\u06cc\u062f\u0647 \u0627\u0632 \u0627\u0628\u0631",
+            "icon": "04d"
+        },
+        "lastUpdate": {
+            "date": "2020-04-11 12:53:09.065071",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    {
+        "time": {
+            "from": {
+                "date": "2020-04-16 03:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "to": {
+                "date": "2020-04-16 06:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "day": {
+                "date": "2020-04-16 00:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        },
+        "city": {
+            "id": 1160939,
+            "name": "Qal\u2018eh-ye N\u0101\u015fer\u012b",
+            "country": "IR",
+            "population": null,
+            "timezone": {
+                "timezone_type": 1,
+                "timezone": "+04:30"
+            },
+            "lat": 27.2025,
+            "lon": 60.6848
+        },
+        "temperature": {
+            "now": {
+                "value": 25.79,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "min": {
+                "value": 25.79,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "max": {
+                "value": 25.79,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "day": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "morning": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "evening": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "night": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            }
+        },
+        "humidity": {
+            "value": 33,
+            "unit": "%",
+            "description": "",
+            "precision": null
+        },
+        "pressure": {
+            "value": 1012,
+            "unit": "hPa",
+            "description": "",
+            "precision": null
+        },
+        "wind": {
+            "speed": {
+                "value": 2.15,
+                "unit": "m\/s",
+                "description": "Light breeze",
+                "precision": null
+            },
+            "direction": {
+                "value": 217,
+                "unit": "SW",
+                "description": "Southwest",
+                "precision": null
+            }
+        },
+        "clouds": {
+            "value": 100,
+            "unit": "%",
+            "description": "\u067e\u0648\u0634\u06cc\u062f\u0647 \u0627\u0632 \u0627\u0628\u0631",
+            "precision": null
+        },
+        "precipitation": {
+            "value": 0,
+            "unit": "",
+            "description": "",
+            "precision": null
+        },
+        "sun": {
+            "rise": {
+                "date": "2020-04-11 01:36:47.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "set": {
+                "date": "2020-04-11 14:19:17.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        },
+        "weather": {
+            "id": 804,
+            "description": "\u067e\u0648\u0634\u06cc\u062f\u0647 \u0627\u0632 \u0627\u0628\u0631",
+            "icon": "04d"
+        },
+        "lastUpdate": {
+            "date": "2020-04-11 12:53:09.065283",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    {
+        "time": {
+            "from": {
+                "date": "2020-04-16 06:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "to": {
+                "date": "2020-04-16 09:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "day": {
+                "date": "2020-04-16 00:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        },
+        "city": {
+            "id": 1160939,
+            "name": "Qal\u2018eh-ye N\u0101\u015fer\u012b",
+            "country": "IR",
+            "population": null,
+            "timezone": {
+                "timezone_type": 1,
+                "timezone": "+04:30"
+            },
+            "lat": 27.2025,
+            "lon": 60.6848
+        },
+        "temperature": {
+            "now": {
+                "value": 25.15,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "min": {
+                "value": 25.15,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "max": {
+                "value": 25.15,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "day": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "morning": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "evening": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "night": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            }
+        },
+        "humidity": {
+            "value": 35,
+            "unit": "%",
+            "description": "",
+            "precision": null
+        },
+        "pressure": {
+            "value": 1011,
+            "unit": "hPa",
+            "description": "",
+            "precision": null
+        },
+        "wind": {
+            "speed": {
+                "value": 0.85,
+                "unit": "m\/s",
+                "description": "Calm",
+                "precision": null
+            },
+            "direction": {
+                "value": 235,
+                "unit": "SW",
+                "description": "Southwest",
+                "precision": null
+            }
+        },
+        "clouds": {
+            "value": 100,
+            "unit": "%",
+            "description": "\u067e\u0648\u0634\u06cc\u062f\u0647 \u0627\u0632 \u0627\u0628\u0631",
+            "precision": null
+        },
+        "precipitation": {
+            "value": 0.34,
+            "unit": "",
+            "description": "rain",
+            "precision": null
+        },
+        "sun": {
+            "rise": {
+                "date": "2020-04-11 01:36:47.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "set": {
+                "date": "2020-04-11 14:19:17.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        },
+        "weather": {
+            "id": 500,
+            "description": "\u0628\u0627\u0631\u0634 \u062e\u0641\u06cc\u0641 \u0628\u0627\u0631\u0627\u0646",
+            "icon": "10d"
+        },
+        "lastUpdate": {
+            "date": "2020-04-11 12:53:09.065500",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    {
+        "time": {
+            "from": {
+                "date": "2020-04-16 09:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "to": {
+                "date": "2020-04-16 12:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "day": {
+                "date": "2020-04-16 00:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        },
+        "city": {
+            "id": 1160939,
+            "name": "Qal\u2018eh-ye N\u0101\u015fer\u012b",
+            "country": "IR",
+            "population": null,
+            "timezone": {
+                "timezone_type": 1,
+                "timezone": "+04:30"
+            },
+            "lat": 27.2025,
+            "lon": 60.6848
+        },
+        "temperature": {
+            "now": {
+                "value": 19.83,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "min": {
+                "value": 19.83,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "max": {
+                "value": 19.83,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "day": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "morning": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "evening": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            },
+            "night": {
+                "value": 0,
+                "unit": "\u00b0C",
+                "description": "",
+                "precision": null
+            }
+        },
+        "humidity": {
+            "value": 62,
+            "unit": "%",
+            "description": "",
+            "precision": null
+        },
+        "pressure": {
+            "value": 1011,
+            "unit": "hPa",
+            "description": "",
+            "precision": null
+        },
+        "wind": {
+            "speed": {
+                "value": 3.74,
+                "unit": "m\/s",
+                "description": "Gentle Breeze",
+                "precision": null
+            },
+            "direction": {
+                "value": 296,
+                "unit": "WNW",
+                "description": "West-northwest",
+                "precision": null
+            }
+        },
+        "clouds": {
+            "value": 100,
+            "unit": "%",
+            "description": "\u067e\u0648\u0634\u06cc\u062f\u0647 \u0627\u0632 \u0627\u0628\u0631",
+            "precision": null
+        },
+        "precipitation": {
+            "value": 1.58,
+            "unit": "",
+            "description": "rain",
+            "precision": null
+        },
+        "sun": {
+            "rise": {
+                "date": "2020-04-11 01:36:47.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "set": {
+                "date": "2020-04-11 14:19:17.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        },
+        "weather": {
+            "id": 500,
+            "description": "\u0628\u0627\u0631\u0634 \u062e\u0641\u06cc\u0641 \u0628\u0627\u0631\u0627\u0646",
+            "icon": "10d"
+        },
+        "lastUpdate": {
+            "date": "2020-04-11 12:53:09.065771",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    }
+]

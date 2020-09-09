@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "type": "واقعی",
+    "type_alias": "actual",
+    "planting_year_id": 1,
+    "title": "الگوی کشت 97",
+    "decription": "توضیحات"
+  },
+  {
+    "id": 1,
+    "type": "آزمایشی",
+    "type_alias": "test",
+    "planting_year_id": 2,
+    "title": "الگوی کشت 96",
+    "decription": "توضیحات"
+  },
+  {
+    "id": 1,
+    "type": "پیش بینی",
+    "type_alias": "forecast",
+    "planting_year_id": 3,
+    "title": "الگوی کشت 95",
+    "decription": "توضیحات"
+  }
+]

@@ -1,0 +1,502 @@
+[
+  {
+    "id": 1,
+    "title": "مصرف کود دامی",
+    "description": "توضیحات",
+    "ratio": [
+      {
+        "id": 1,
+        "alias": "MILION_PER_HECTAR"
+      },
+      {
+        "id": 2,
+        "alias": "RIAL_PER_KILOGRAM"
+      },
+      {
+        "id": 3,
+        "alias": "SUM"
+      }
+    ],
+    "indicator_id": 2,
+    "divider": "CROP",
+    "category_id": 36,
+    "criteria": [
+      {
+        "HUMAN_RESOURCES": [
+          54,
+          3424,
+          123
+        ]
+      },
+      {
+        "CROPS": [
+          54,
+          3424,
+          123
+        ]
+      },
+      {
+        "RAW_MATERIALS": [
+          54,
+          3424,
+          123
+        ]
+      },
+      {
+        "PLANTING_YEAR": [
+          54,
+          3424,
+          123
+        ]
+      },
+      {
+        "MACHINERY": [
+          54,
+          3424,
+          123
+        ]
+      },
+      {
+        "OPERATION_TYPE": [
+          54,
+          3424,
+          123
+        ]
+      },
+      {
+        "RAW_MATERIAL": [
+          54,
+          3424,
+          123
+        ]
+      }
+    ],
+    "info": {
+      "reporter_type": "NetProfit",
+      "type": "bars",
+      "ratio": "کیلوگرم در هکتار",
+      "data": {
+        "x_axis_title": "گیاهان",
+        "y_axis_title": "میلیون ریال",
+        "values": [
+          {
+            "title": "گندم",
+            "id": 5623,
+            "value": 53.35,
+            "low": 40,
+            "medium": 50,
+            "high": 58,
+            "excellence_text": "بسیار خوب",
+            "color": "green"
+          },
+          {
+            "title": "جو",
+            "id": 5623,
+            "value": 53.35,
+            "low": 40,
+            "medium": 50,
+            "high": 58,
+            "excellence_text": "خیلی خوب",
+            "color": "brown"
+          },
+          {
+            "title": "کلزا",
+            "id": 5623,
+            "value": 53.35,
+            "low": 32,
+            "medium": 42,
+            "high": 90,
+            "excellence_text": "بد",
+            "color": "brown"
+          },
+          {
+            "title": "خربزه",
+            "id": 5623,
+            "value": 53.35,
+            "low": 40,
+            "medium": 50,
+            "high": 58,
+            "excellence_text": " خوب",
+            "color": "green"
+          }
+        ]
+      },
+      "excellence_type": "هرچه بیشتر بهتر"
+    }
+  },
+  {
+    "id": 2,
+    "title": "مصرف کود دامی",
+    "description": "توضیحات",
+    "ratio": [
+      {
+        "id": 1,
+        "alias": "MILION_PER_HECTAR"
+      },
+      {
+        "id": 2,
+        "alias": "RIAL_PER_KILOGRAM"
+      },
+      {
+        "id": 3,
+        "alias": "SUM"
+      }
+    ],
+    "indicator_id": 2,
+    "divider": "CROP",
+    "category_id": 36,
+    "criteria": [
+      {
+        "HUMAN_RESOURCES": [
+          54,
+          3424,
+          123
+        ]
+      },
+      {
+        "CROPS": [
+          54,
+          3424,
+          123
+        ]
+      },
+      {
+        "RAW_MATERIALS": [
+          54,
+          3424,
+          123
+        ]
+      },
+      {
+        "PLANTING_YEAR": [
+          54,
+          3424,
+          123
+        ]
+      },
+      {
+        "MACHINERY": [
+          54,
+          3424,
+          123
+        ]
+      },
+      {
+        "OPERATION_TYPE": [
+          54,
+          3424,
+          123
+        ]
+      },
+      {
+        "RAW_MATERIAL": [
+          54,
+          3424,
+          123
+        ]
+      }
+    ],
+    "info": {
+      "reporter_type": "NetProfit",
+      "type": "bars",
+      "ratio": "کیلوگرم در هکتار",
+      "data": {
+        "x_axis_title": "گیاهان",
+        "y_axis_title": "میلیون ریال",
+        "values": [
+          {
+            "title": "گندم",
+            "id": 5623,
+            "value": 53.35,
+            "low": 40,
+            "medium": 50,
+            "high": 58,
+            "excellence_text": "بسیار خوب",
+            "color": "blue"
+          },
+          {
+            "title": "جو",
+            "id": 5623,
+            "value": 53.35,
+            "low": 40,
+            "medium": 50,
+            "high": 58,
+            "excellence_text": "خیلی خوب",
+            "color": "brown"
+          },
+          {
+            "title": "کلزا",
+            "id": 5623,
+            "value": 53.35,
+            "low": 32,
+            "medium": 42,
+            "high": 90,
+            "excellence_text": "بد",
+            "color": "blue"
+          },
+          {
+            "title": "خربزه",
+            "id": 5623,
+            "value": 53.35,
+            "low": 40,
+            "medium": 50,
+            "high": 58,
+            "excellence_text": " خوب",
+            "color": "green"
+          }
+        ]
+      },
+      "excellence_type": "هرچه بیشتر بهتر"
+    }
+  },
+  {
+    "id": 3,
+    "title": "مصرف کود دامی",
+    "description": "توضیحات",
+    "ratio": [
+      {
+        "id": 1,
+        "alias": "MILION_PER_HECTAR"
+      },
+      {
+        "id": 2,
+        "alias": "RIAL_PER_KILOGRAM"
+      },
+      {
+        "id": 3,
+        "alias": "SUM"
+      }
+    ],
+    "indicator_id": 2,
+    "divider": "CROP",
+    "category_id": 36,
+    "criteria": [
+      {
+        "HUMAN_RESOURCES": [
+          54,
+          3424,
+          123
+        ]
+      },
+      {
+        "CROPS": [
+          54,
+          3424,
+          123
+        ]
+      },
+      {
+        "RAW_MATERIALS": [
+          54,
+          3424,
+          123
+        ]
+      },
+      {
+        "PLANTING_YEAR": [
+          54,
+          3424,
+          123
+        ]
+      },
+      {
+        "MACHINERY": [
+          54,
+          3424,
+          123
+        ]
+      },
+      {
+        "OPERATION_TYPE": [
+          54,
+          3424,
+          123
+        ]
+      },
+      {
+        "RAW_MATERIAL": [
+          54,
+          3424,
+          123
+        ]
+      }
+    ],
+    "info": {
+      "reporter_type": "NetProfit",
+      "type": "bars",
+      "ratio": "کیلوگرم در هکتار",
+      "data": {
+        "x_axis_title": "گیاهان",
+        "y_axis_title": "میلیون ریال",
+        "values": [
+          {
+            "title": "گندم",
+            "id": 5623,
+            "value": 53.35,
+            "low": 40,
+            "medium": 50,
+            "high": 58,
+            "excellence_text": "بسیار خوب",
+            "color": "green"
+          },
+          {
+            "title": "جو",
+            "id": 5623,
+            "value": 53.35,
+            "low": 40,
+            "medium": 50,
+            "high": 58,
+            "excellence_text": "خیلی خوب",
+            "color": "blue"
+          },
+          {
+            "title": "کلزا",
+            "id": 5623,
+            "value": 53.35,
+            "low": 32,
+            "medium": 42,
+            "high": 90,
+            "excellence_text": "بد",
+            "color": "green"
+          },
+          {
+            "title": "خربزه",
+            "id": 5623,
+            "value": 53.35,
+            "low": 40,
+            "medium": 50,
+            "high": 58,
+            "excellence_text": " خوب",
+            "color": "brown"
+          }
+        ]
+      },
+      "excellence_type": "هرچه بیشتر بهتر"
+    }
+  },
+  {
+    "id": 4,
+    "title": "مصرف کود دامی",
+    "description": "توضیحات",
+    "ratio": [
+      {
+        "id": 1,
+        "alias": "MILION_PER_HECTAR"
+      },
+      {
+        "id": 2,
+        "alias": "RIAL_PER_KILOGRAM"
+      },
+      {
+        "id": 3,
+        "alias": "SUM"
+      }
+    ],
+    "indicator_id": 2,
+    "divider": "CROP",
+    "category_id": 36,
+    "criteria": [
+      {
+        "HUMAN_RESOURCES": [
+          54,
+          3424,
+          123
+        ]
+      },
+      {
+        "CROPS": [
+          54,
+          3424,
+          123
+        ]
+      },
+      {
+        "RAW_MATERIALS": [
+          54,
+          3424,
+          123
+        ]
+      },
+      {
+        "PLANTING_YEAR": [
+          54,
+          3424,
+          123
+        ]
+      },
+      {
+        "MACHINERY": [
+          54,
+          3424,
+          123
+        ]
+      },
+      {
+        "OPERATION_TYPE": [
+          54,
+          3424,
+          123
+        ]
+      },
+      {
+        "RAW_MATERIAL": [
+          54,
+          3424,
+          123
+        ]
+      }
+    ],
+    "info": {
+      "reporter_type": "NetProfit",
+      "type": "bars",
+      "ratio": "کیلوگرم در هکتار",
+      "data": {
+        "x_axis_title": "گیاهان",
+        "y_axis_title": "میلیون ریال",
+        "values": [
+          {
+            "title": "گندم",
+            "id": 5623,
+            "value": 53.35,
+            "low": 40,
+            "medium": 50,
+            "high": 58,
+            "excellence_text": "بسیار خوب",
+            "color": "green"
+          },
+          {
+            "title": "جو",
+            "id": 5623,
+            "value": 53.35,
+            "low": 40,
+            "medium": 50,
+            "high": 58,
+            "excellence_text": "خیلی خوب",
+            "color": "blue"
+          },
+          {
+            "title": "کلزا",
+            "id": 5623,
+            "value": 53.35,
+            "low": 32,
+            "medium": 42,
+            "high": 90,
+            "excellence_text": "بد",
+            "color": "green"
+          },
+          {
+            "title": "خربزه",
+            "id": 5623,
+            "value": 53.35,
+            "low": 40,
+            "medium": 50,
+            "high": 58,
+            "excellence_text": " خوب",
+            "color": "brown"
+          }
+        ]
+      },
+      "excellence_type": "هرچه بیشتر بهتر"
+    }
+  }
+]

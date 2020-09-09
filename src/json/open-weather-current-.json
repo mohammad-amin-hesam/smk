@@ -1,0 +1,98 @@
+{
+    "city": {
+        "id": 1160939,
+        "name": "Qal\u2018eh-ye N\u0101\u015fer\u012b",
+        "country": "IR",
+        "population": null,
+        "timezone": {
+            "timezone_type": 1,
+            "timezone": "+04:30"
+        },
+        "lat": 27.2,
+        "lon": 60.68
+    },
+    "temperature": {
+        "now": {
+            "value": 37,
+            "unit": "\u00b0C",
+            "description": "",
+            "precision": null
+        },
+        "min": {
+            "value": 37,
+            "unit": "\u00b0C",
+            "description": "",
+            "precision": null
+        },
+        "max": {
+            "value": 37,
+            "unit": "\u00b0C",
+            "description": "",
+            "precision": null
+        },
+        "day": null,
+        "morning": null,
+        "evening": null,
+        "night": null
+    },
+    "humidity": {
+        "value": 17,
+        "unit": "%",
+        "description": "",
+        "precision": null
+    },
+    "pressure": {
+        "value": 1013,
+        "unit": "hPa",
+        "description": "",
+        "precision": null
+    },
+    "wind": {
+        "speed": {
+            "value": 6.2,
+            "unit": "m\/s",
+            "description": "Moderate breeze",
+            "precision": null
+        },
+        "direction": {
+            "value": 220,
+            "unit": "SW",
+            "description": "Southwest",
+            "precision": null
+        }
+    },
+    "clouds": {
+        "value": 75,
+        "unit": "",
+        "description": "\u0627\u0628\u0631\u0647\u0627\u06cc \u067e\u0627\u0631\u0686\u0647 \u067e\u0627\u0631\u0686\u0647 \u0634\u062f\u0647",
+        "precision": null
+    },
+    "precipitation": {
+        "value": 0,
+        "unit": "",
+        "description": "no",
+        "precision": null
+    },
+    "sun": {
+        "rise": {
+            "date": "2020-04-11 01:36:48.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        },
+        "set": {
+            "date": "2020-04-11 14:19:18.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "weather": {
+        "id": 803,
+        "description": "\u0627\u0628\u0631\u0647\u0627\u06cc \u067e\u0627\u0631\u0686\u0647 \u067e\u0627\u0631\u0686\u0647 \u0634\u062f\u0647",
+        "icon": "04d"
+    },
+    "lastUpdate": {
+        "date": "2020-04-11 12:53:44.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    }
+}

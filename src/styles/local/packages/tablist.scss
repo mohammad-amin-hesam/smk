@@ -1,0 +1,14 @@
+ul.nav-tabs {
+  padding-right: 0;
+  > li {
+    float: right;
+    &.active {
+      background-color: white;
+      > a {
+        &, &:focus, &:hover {
+          border: 1px solid transparent;
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,21 @@
+.slick-slider {
+  margin-bottom: 1em!important;
+  .slick-list {    
+    width: 100%;
+    button {
+      direction: rtl;
+    }
+  }
+  .slick-arrow {
+    &:before{
+      color: #eee;
+      background-color: #333;
+      border-radius: 40px;
+      line-height: 1;
+      font-size: 14px;
+    }
+  }
+  .slick-dots {
+    display: none!important;
+  }
+}

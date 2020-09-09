@@ -1,0 +1,88 @@
+@import '../guest/bootstrap.min';
+@import '../guest/image-lightbox';
+@import '../guest/ReactToastify.min';
+@import '../guest/react-confirm-alert';
+@import '../guest/rc-collapse';
+@import '../guest/nouislider.min';
+@import '../guest/slick.min';
+@import '../guest/slick-theme.min';
+@import '../guest/slimselect';
+@import 'packages/radiobox';
+@import 'packages/accardion';
+@import 'packages/specialForms';
+@import 'packages/form';
+@import 'packages/bar';
+@import 'packages/gauge';
+@import 'packages/helpers';
+@import 'packages/mainPanel';
+@import 'packages/progressbar&breadcrumb';
+@import 'packages/satteliteSlider';
+@import 'packages/sidebar';
+@import 'packages/slider';
+@import 'packages/tablist';
+@import 'packages/weather';
+//
+//@font-face {
+//  font-family: 'vazir-fd';
+//  src: url('./../../font/Vazir-Light-FD.eot'); /* IE9 Compat Modes */
+//  src: url('./../../font/Vazir-Light-FD?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+//       url('./../../font/Vazir-Light-FD.woff2') format('woff2'), /* Super Modern Browsers */
+//       url('./../../font/Vazir-Light-FD.woff') format('woff'), /* Pretty Modern Browsers */
+//       url('./../../font/Vazir-Light-FD: ;.ttf')  format('truetype'); /* Safari, Android, iOS */
+//}
+
+html {
+  @media screen and (min-width: 1401px) {
+      font-size: 1.3rem;
+  }
+
+  @media screen and (max-width: 1700px) {
+      font-size: 1.1rem;
+  }
+}
+
+body {
+  direction: rtl;
+  //font-family: "vazir-fd";
+  overflow: hidden;
+
+  @media screen and (max-width: 1400px) {
+      font-size: 15px;
+  }
+
+  @media screen and (min-width: 1401px) {
+      font-size: 1rem;
+  }
+}
+
+#root {
+  height: 100vh;
+  .App {
+    height: 100%;
+    > div {
+      width: 100%;
+      height: 100%;
+      display: inline-block;
+    }
+  }
+}
+
+.float-left {
+  float: left!important;
+}
+
+.float-right {
+  float: right!important;
+}
+
+.border-left {
+  border-left: 1px solid #ddd!important;
+}
+
+.twoRows {
+  vertical-align: middle!important;
+}
+
+.full-size {
+  width: 100%!important;
+}

@@ -1,0 +1,28 @@
+[
+  {
+    "categories": [
+      { "id": 1, "name": "پایداری" },
+      { "id": 2, "name": "پایداری" },
+      { "id": 3, "name": "اقتصادی" },
+      { "id": 4, "name": "اقتصادی" }
+    ],
+    "criterias": [
+      { "title": "نیروی انسانی", "alias": "HUMAN_RESOURCE" },
+      { "title": "انتخاب گیاهان", "alias": "CROP" }
+    ],
+    "indicators": [
+      { "id": 1, "title": "کل چهان", "type": 0 },
+      { "id": 2, "title": "ایران", "type": 0 },
+      { "id": 3, "title": "استان", "type": 0 },
+      { "id": 4, "title": "شرکت رضوی", "type": 1 },
+      { "id": 5, "title": "نمونه سال ۹۷", "type": 1 }
+    ],
+    "dividers": [
+      { "title": "براساس گیاهان", "alias": "CROP" },
+      { "title": "مجموع کل", "alias": "SUM" },
+      { "title": "براساس واحدها", "alias": "CROP" },
+      { "title": "براساس نوع عملیات", "alias": "OPERATION_TYPE" },
+      { "title": "براساس سال زراعی", "alias": "PLANTING_YEAR" }
+    ]
+  }
+]

@@ -1,0 +1,93 @@
+{
+  "tabs": [
+    {
+      "title": "اطلاعات",
+      "headers": { "num": "ردیف", "title": "عنوان", "value": "مقدار" },
+      "items": [
+        { "num": 1, "title": "سال تاسیس", "value": 1376 },
+        { "num": 2, "title": "شرح ماموریت شرکت", "value": 1376 },
+        { "num": 3, "title": "سال تاسیس", "value": 1376 },
+        { "num": 4, "title": "سال تاسیس", "value": 1376 }
+      ]
+    },
+    {
+      "title": "ساختمان ها",
+      "headers": {
+        "num": "ردیف",
+        "zir_bana": "زیربنا",
+        "no_karbari": "نوع کاربری"
+      },
+      "items": [
+        { "num": 1, "zir_bana": 16164, "no_karbari": "انبار" },
+        { "num": 2, "zir_bana": 42, "no_karbari": "انبار" },
+        { "num": 3, "zir_bana": 546, "no_karbari": "انبار" },
+        { "num": 4, "zir_bana": 786, "no_karbari": "انبار" }
+      ]
+    }
+  ],
+  "files": [
+    {
+      "name": "تصویر آزمایش گیاهی",
+      "date": "1397/10/2",
+      "size": "2MB",
+      "src": "http://dev.cpre.bahar8.tk/uploads/jgooghkgj.jpg",
+      "path": ""
+    },
+    {
+      "name": "تصویر آزمایش گیاهی",
+      "date": "1397/10/2",
+      "size": "2MB",
+      "src": "http://dev.cpre.bahar8.tk/uploads/jgooghkgj.jpg",
+      "path": ""
+    },
+    {
+      "name": "تصویر آزمایش گیاهی",
+      "date": "1397/10/2",
+      "size": "2MB",
+      "src": "http://dev.cpre.bahar8.tk/uploads/jgooghkgj.jpg",
+      "path": ""
+    },
+    {
+      "name": "تصویر آزمایش گیاهی",
+      "date": "1397/10/2",
+      "size": "2MB",
+      "src": "http://dev.cpre.bahar8.tk/uploads/jgooghkgj.jpg",
+      "path": ""
+    },
+    {
+      "name": "تصویر آزمایش گیاهی",
+      "date": "1397/10/2",
+      "size": "2MB",
+      "src": "http://dev.cpre.bahar8.tk/uploads/jgooghkgj.jpg",
+      "path": ""
+    },
+    {
+      "name": "تصویر آزمایش گیاهی",
+      "date": "1397/10/2",
+      "size": "2MB",
+      "src": "http://dev.cpre.bahar8.tk/uploads/jgooghkgj.jpg",
+      "path": ""
+    },
+    {
+      "name": "تصویر آزمایش گیاهی",
+      "date": "1397/10/2",
+      "size": "2MB",
+      "src": "http://dev.cpre.bahar8.tk/uploads/jgooghkgj.jpg",
+      "path": ""
+    },
+    {
+      "name": "تصویر آزمایش گیاهی",
+      "date": "1397/10/2",
+      "size": "2MB",
+      "src": "http://dev.cpre.bahar8.tk/uploads/jgooghkgj.jpg",
+      "path": ""
+    },
+    {
+      "name": "تصویر آزمایش گیاهی",
+      "date": "1397/10/2",
+      "size": "2MB",
+      "src": "http://dev.cpre.bahar8.tk/uploads/jgooghkgj.jpg",
+      "path": ""
+    }
+  ]
+}

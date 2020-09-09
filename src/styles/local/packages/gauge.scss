@@ -1,0 +1,86 @@
+#PlantationDashboardResult {
+  position: relative;
+  display: inline-block;
+  width: 100%;
+  .panel {
+    &.active {
+      img {
+        &.add {
+          display: none!important;
+        }
+        &.abort {
+          display: inline-block!important;
+        }
+      }
+    }
+    display: inline-block;
+    float: right;
+    margin-left: 1em;
+    .panel-heading {
+      position: relative;
+      display: inline-block;
+      width: 100%;
+      img {
+        width: 3em;
+        display: inline-block;
+        background-color: #ddd;
+        padding: 1em;
+        border-radius: 4px;
+        float: left;
+        margin-right: 10px;
+        cursor: pointer;
+        &.add {
+          display: inline-block;
+        }
+        &.abort {
+          display: none;
+        }
+      }
+      .title {
+        font-size: 1em;
+        font-weight: bold;
+        display: inline-block;
+        float: right;
+        line-height: 2.5em;
+        max-width: 8em;
+        white-space: nowrap;
+      }
+    }
+    .panel-body {
+      position: relative;
+      .wellness {
+        position: absolute;
+        bottom: 22%;
+        left: 40%;
+        font-size: 1.2em;
+        color: #b3b3b3;
+        &.good {
+          font-size: #449d44;
+        }
+        &.bad {
+          font-size: #f4516c;
+        }
+      }
+    }
+  }
+}
+
+.gauge-draw {
+  width:100%;
+  height:24em;
+  display: block;
+  margin: 1em auto;
+  overflow: hidden;
+  svg {
+
+    text {
+      font-family: "vazir-fd"!important;
+      &:nth-of-type(2) {
+      }
+
+      &:nth-of-type(4), &:nth-of-type(5) {
+        /*font-size: 1.5em!important;*/
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+import "./packages/tablist.scss";
+import "./packages/form.scss";
+import "./packages/accardion.scss";
+import "./packages/bar.scss";
+import "./packages/gauge.scss";
+import "./packages/helpers.scss";
+import "./packages/mainPanel.scss";
+import "./packages/progressbar&breadcrumb.scss";
+import "./packages/radiobox.scss";
+// import "./packages/satteliteSlider.scss";
+import "./packages/sidebar.scss";
+import "./packages/slider.scss";
+import "./packages/specialForms.scss";
+import "./packages/weather.scss";

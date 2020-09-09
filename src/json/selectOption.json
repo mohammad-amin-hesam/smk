@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "subject": "NewOperation",
+    "name": "عملیات جدید",
+    "activeIn": [5, 6, 7],
+    "active": false
+  },
+  {
+    "id": 2,
+    "subject": "NewPattern",
+    "name": "الگوی جدید",
+    "activeIn": [0, 1, 2, 3, 4, 5, 6, 7]
+  },
+  {
+    "id": 3,
+    "subject": "RecordingWateringOperations",
+    "name": "ثبت عملیات آبیاری",
+    "activeIn": [8],
+    "active": false
+  },
+  {
+    "id": 4,
+    "subject": "SoilTestRecording",
+    "name": "ثبت آزمایش خاک",
+    "activeIn": [7],
+    "active": false
+  },
+  {
+    "id": 5,
+    "subject": "AddCrops",
+    "name": "افزودن {a}",
+    "activeIn": [1, 7],
+    "active": false,
+    "special": true,
+    "add": true
+  },
+  {
+    "id": 6,
+    "subject": "CopyCrops",
+    "name": "کپی {a}",
+    "activeIn": [1, 5, 6, 7, 4, 3, 2],
+    "active": false,
+    "special": true,
+    "add": false
+  }
+]

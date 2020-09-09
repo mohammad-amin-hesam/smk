@@ -1,0 +1,346 @@
+[
+  {
+    "id": 1,
+    "title": "مصرف کود دامی",
+    "description": "توضیحات",
+    "ratio": [
+      {
+        "id": 1,
+        "alias": "MILION_PER_HECTAR"
+      },
+      {
+        "id": 2,
+        "alias": "RIAL_PER_KILOGRAM"
+      },
+      {
+        "id": 3,
+        "alias": "SUM"
+      }
+    ],
+    "indicator_id": 2,
+    "divider": "CROP",
+    "category_id": 36,
+    "criteria": [
+      {
+        "HUMAN_RESOURCES": [
+          54,
+          3424,
+          123
+        ]
+      },
+      {
+        "CROPS": [
+          54,
+          3424,
+          123
+        ]
+      },
+      {
+        "RAW_MATERIALS": [
+          54,
+          3424,
+          123
+        ]
+      },
+      {
+        "PLANTING_YEAR": [
+          54,
+          3424,
+          123
+        ]
+      },
+      {
+        "MACHINERY": [
+          54,
+          3424,
+          123
+        ]
+      },
+      {
+        "OPERATION_TYPE": [
+          54,
+          3424,
+          123
+        ]
+      },
+      {
+        "RAW_MATERIAL": [
+          54,
+          3424,
+          123
+        ]
+      }
+    ],
+    "info": {
+      "reporter_type": "NetProfit",
+      "type": "guage",
+      "ratio": "کیلوگرم در هکتار",
+      "excellence_type": "هرچه بیشتر بهتر",
+      "excellence_text": "بسیار خوب",
+      "data": {
+        "low": 34,
+        "medium": 38,
+        "high": 42,
+        "value": 41.25
+      }
+    }
+  },
+  {
+    "id": 2,
+    "title": "مصرف کود دامی",
+    "description": "توضیحات",
+    "ratio": [
+      {
+        "id": 1,
+        "alias": "MILION_PER_HECTAR"
+      },
+      {
+        "id": 2,
+        "alias": "RIAL_PER_KILOGRAM"
+      },
+      {
+        "id": 3,
+        "alias": "SUM"
+      }
+    ],
+    "indicator_id": 2,
+    "divider": "CROP",
+    "category_id": 36,
+    "criteria": [
+      {
+        "HUMAN_RESOURCES": [
+          54,
+          3424,
+          123
+        ]
+      },
+      {
+        "CROPS": [
+          54,
+          3424,
+          123
+        ]
+      },
+      {
+        "RAW_MATERIALS": [
+          54,
+          3424,
+          123
+        ]
+      },
+      {
+        "PLANTING_YEAR": [
+          54,
+          3424,
+          123
+        ]
+      },
+      {
+        "MACHINERY": [
+          54,
+          3424,
+          123
+        ]
+      },
+      {
+        "OPERATION_TYPE": [
+          54,
+          3424,
+          123
+        ]
+      },
+      {
+        "RAW_MATERIAL": [
+          54,
+          3424,
+          123
+        ]
+      }
+    ],
+    "info": {
+      "reporter_type": "NetProfit",
+      "type": "guage",
+      "ratio": "کیلوگرم در هکتار",
+      "excellence_type": "هرچه بیشتر بهتر",
+      "excellence_text": "بسیار خوب",
+      "data": {
+        "low": 34,
+        "medium": 38,
+        "high": 42,
+        "value": 41.25
+      }
+    }
+  },
+  {
+    "id": 3,
+    "title": "مصرف کود دامی",
+    "description": "توضیحات",
+    "ratio": [
+      {
+        "id": 1,
+        "alias": "MILION_PER_HECTAR"
+      },
+      {
+        "id": 2,
+        "alias": "RIAL_PER_KILOGRAM"
+      },
+      {
+        "id": 3,
+        "alias": "SUM"
+      }
+    ],
+    "indicator_id": 2,
+    "divider": "CROP",
+    "category_id": 36,
+    "criteria": [
+      {
+        "HUMAN_RESOURCES": [
+          54,
+          3424,
+          123
+        ]
+      },
+      {
+        "CROPS": [
+          54,
+          3424,
+          123
+        ]
+      },
+      {
+        "RAW_MATERIALS": [
+          54,
+          3424,
+          123
+        ]
+      },
+      {
+        "PLANTING_YEAR": [
+          54,
+          3424,
+          123
+        ]
+      },
+      {
+        "MACHINERY": [
+          54,
+          3424,
+          123
+        ]
+      },
+      {
+        "OPERATION_TYPE": [
+          54,
+          3424,
+          123
+        ]
+      },
+      {
+        "RAW_MATERIAL": [
+          54,
+          3424,
+          123
+        ]
+      }
+    ],
+    "info": {
+      "reporter_type": "NetProfit",
+      "type": "guage",
+      "ratio": "کیلوگرم در هکتار",
+      "excellence_type": "هرچه بیشتر بهتر",
+      "excellence_text": "بسیار خوب",
+      "data": {
+        "low": 34,
+        "medium": 38,
+        "high": 42,
+        "value": 41.25
+      }
+    }
+  },
+  {
+    "id": 4,
+    "title": "مصرف کود دامی",
+    "description": "توضیحات",
+    "ratio": [
+      {
+        "id": 1,
+        "alias": "MILION_PER_HECTAR"
+      },
+      {
+        "id": 2,
+        "alias": "RIAL_PER_KILOGRAM"
+      },
+      {
+        "id": 3,
+        "alias": "SUM"
+      }
+    ],
+    "indicator_id": 2,
+    "divider": "CROP",
+    "category_id": 36,
+    "criteria": [
+      {
+        "HUMAN_RESOURCES": [
+          54,
+          3424,
+          123
+        ]
+      },
+      {
+        "CROPS": [
+          54,
+          3424,
+          123
+        ]
+      },
+      {
+        "RAW_MATERIALS": [
+          54,
+          3424,
+          123
+        ]
+      },
+      {
+        "PLANTING_YEAR": [
+          54,
+          3424,
+          123
+        ]
+      },
+      {
+        "MACHINERY": [
+          54,
+          3424,
+          123
+        ]
+      },
+      {
+        "OPERATION_TYPE": [
+          54,
+          3424,
+          123
+        ]
+      },
+      {
+        "RAW_MATERIAL": [
+          54,
+          3424,
+          123
+        ]
+      }
+    ],
+    "info": {
+      "reporter_type": "NetProfit",
+      "type": "guage",
+      "ratio": "کیلوگرم در هکتار",
+      "excellence_type": "هرچه بیشتر بهتر",
+      "excellence_text": "بسیار خوب",
+      "data": {
+        "low": 34,
+        "medium": 38,
+        "high": 42,
+        "value": 41.25
+      }
+    }
+  }
+]

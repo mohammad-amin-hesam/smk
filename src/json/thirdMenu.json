@@ -1,0 +1,74 @@
+[
+  {
+    "id":1,
+    "subject": "cropPatternManagement",
+    "name": "مدیریت الگوی کشت",
+    "active": true
+  },
+  {
+    "id": 2,
+    "subject": "soilManagement",
+    "name": "کیفیت خاک",
+    "active": false
+  },
+  {
+    "id": 3,
+    "subject": "waterTestPlantation",
+    "name": "آزمایش آب",
+    "active": false
+  },
+  {
+    "id": 4,
+    "subject": "wateringManagement",
+    "name": "مدیریت آبیاری",
+    "active": false
+  },
+  {
+    "id": 5,
+    "subject": "approveOperation",
+    "name": "تایید عملیات",
+    "active": true
+  },
+  {
+    "id": 6,
+    "subject": "operationList",
+    "name": "گزارش عملیات",
+    "active": true
+  },
+  {
+    "id": 7,
+    "subject": "dashboard",
+    "name": "داشبورد گزارش گیری",
+    "active": true
+  },
+  {
+    "id": 8,
+    "subject": "humanReport",
+    "name": "گزارش نیروی انسانی",
+    "active": true
+  },
+  {
+    "id": 9,
+    "subject": "machineryReport",
+    "name": "گزارش ماشین آلات",
+    "active": true
+  },
+  {
+    "id": 10,
+    "subject": "expertReport",
+    "name": "گزارش کارشناسی",
+    "active": false
+  },
+  {
+    "id": 11,
+    "subject": "customers",
+    "name": "مشتریان",
+    "active": true
+  },
+  {
+    "id": 12,
+    "subject": "productions",
+    "name": "تولید و فروش",
+    "active": false
+  }
+]
