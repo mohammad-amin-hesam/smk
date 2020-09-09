@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useState, Fragment } from "react";
 import PropTypes from "prop-types";
 import { makeStyles } from "@material-ui/core/styles";
 import AppBar from "@material-ui/core/AppBar";
@@ -85,6 +85,7 @@ const NewOperation = (props) => {
   const [value, setValue] = useState(0);
   const [tabs, setTabs] = useState([]);
   const [tabsMachinery, setTabsMachinery] = useState([]);
+  const [fillItems, setFillItems] = useState([]);
   let history = useHistory();
   let location = useLocation();
   let { path, url } = useRouteMatch();
@@ -113,8 +114,15 @@ const NewOperation = (props) => {
 
   const handlerComponent = () => {
     props.incrementIdFw();
-    setTabs((prev) => [...prev, <AddRawMaterials iFw={iFw} />]);
+    tabs.length === 0 ? setTabs([1]) : setTabs((prev) => [...prev, prev + 1]);
     props.incrementIdFw();
+  };
+
+  const reverseArray = (arr) => {
+    if (arr.length === 0) {
+      return [];
+    }
+    return [arr.pop()].concat(reverseArray(arr));
   };
 
   // const removeTab = (index) => {
@@ -248,25 +256,32 @@ const NewOperation = (props) => {
             </Typography>
           </AccordionSummary>
           <AccordionDetails>
-            {tabs.map((tab, index) => (
-              <>
-                {tab}
-                {/* <span class="remove" onClick={(e) => removeTab(index)}>
-                  حذف
-                </span> */}
-              </>
-            ))}
-            <Typography>
-              <Fab
-                className="dd_new"
-                size="small"
-                aria-label="add"
-                onClick={() => handlerComponent()}
-              >
-                <AddIcon />
-              </Fab>
-              <span>افزودن مواد اولیه</span>
-            </Typography>
+            {tabs.map((tab, index) => {
+              return (
+                <Fragment key={`tabMaterialItem${index}${tab}`}>
+                  <AddRawMaterials
+                    iFw={iFw}
+                    handleFill={() => {
+                      setFillItems([...fillItems, tab]);
+                    }}
+                  />
+                </Fragment>
+              );
+            })}
+            {console.log(fillItems, tabs)}
+            {fillItems.length === tabs.length && (
+              <Typography>
+                <Fab
+                  className="dd_new"
+                  size="small"
+                  aria-label="add"
+                  onClick={() => handlerComponent()}
+                >
+                  <AddIcon />
+                </Fab>
+                <span>افزودن مواد اولیه</span>
+              </Typography>
+            )}
           </AccordionDetails>
         </Accordion>
         <Accordion defaultExpanded="false">

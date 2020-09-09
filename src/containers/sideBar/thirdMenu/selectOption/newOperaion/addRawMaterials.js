@@ -71,6 +71,7 @@ const AddRawMaterials = (props) => {
     selectedExitByPlantationIdByRawMaterialId,
     listExitPlantationIdByRawMaterialId,
     iFw,
+    handleFill,
   } = props;
 
   const [seletedItemRawMaterials, setSeletedItemRawMaterials] = useState(null);
@@ -110,6 +111,15 @@ const AddRawMaterials = (props) => {
     props.removeItemFinancialWareHouse(iFw);
     setShowTabsRawMaterial(false);
   };
+
+  useEffect(() => {
+    if (
+      selectedExitByPlantationIdByRawMaterialId[iFw] ||
+      seletedItemRawMaterials
+    ) {
+      handleFill();
+    }
+  }, [selectedExitByPlantationIdByRawMaterialId[iFw], seletedItemRawMaterials]);
 
   return (
     <React.Fragment>
